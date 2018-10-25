@@ -1,0 +1,1548 @@
+Journal of Personality and Social Psychology
+2008, Vol. 95, No. 3, 510 –523
+
+Copyright 2008 by the American Psychological Association
+0022-3514/08/$12.00 DOI: 10.1037/a0012833
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Increasing and Decreasing Motor and Cognitive Output: A Model of
+General Action and Inaction Goals
+Dolores Albarracı́n
+
+Ian M. Handley
+
+University of Illinois
+
+Montana State University
+
+Kenji Noguchi
+
+Kathleen C. McCulloch
+
+University of Florida
+
+University of Illinois
+
+Hong Li, Joshua Leeper, and Rick D. Brown
+
+Allison Earl
+
+University of Florida
+
+University of Illinois
+
+William P. Hart
+University of Florida
+General action and inaction goals can influence the amount of motor or cognitive output irrespective of
+the type of behavior in question, with the same stimuli producing trivial and important motor and
+cognitive manifestations normally viewed as parts of different systems. A series of experiments examined
+the effects of instilling general action and inaction goals using word primes, such as “action” and “rest.”
+The first 5 experiments showed that the same stimuli influenced motor output, such as doodling on a
+piece of paper and eating, as well as cognitive output, such as recall and problem solving. The last 2
+experiments supported the prediction that these diverse effects can result from the instigation of general
+action and inaction goals. Specifically, these last 2 studies confirmed that participants were motivated to
+achieve active or inactive states and that attaining them decreased the effects of the primes on behavior.
+Keywords: action goals, self-regulation, behavior
+
+concept (Bargh et al., 2001). In addition to these specific behavioral
+effects of cognitive concepts, evolutionary and motivational considerations suggest a different modality of cognitive control, one that
+regulates general action versus inaction independently of what specific behaviors unfold.
+General action can be defined as motor and/or cognitive output and
+general inaction as the lack of action. Action and inaction are of
+course not dichotomous entities but rather two ends of a continuum of
+activity. Intense and/or frequent motor and cognitive processes constitute the action end, whereas non-REM sleep exemplifies the inaction end with neither motor output (e.g., leg movement) nor cognitive
+output (e.g., dreaming). Given this definition, the action end can
+include not only important, well-planned, effortful behaviors, such as
+acquiring knowledge, but also seemingly more senseless behaviors,
+such as doodling, as well as relatively effortless behavior, such as
+eating when food is present. In other words, general action encompasses motor and/or cognitive output and unifies a wide variety of
+behaviors that may be driven by different goals. Whereas acquiring
+knowledge and doodling during a lecture may be respectively driven
+by the goals to achieve a good grade versus to entertain oneself,
+respectively, both acquiring knowledge and doodling are identical
+from a general action perspective.
+The regulation of general activity undoubtedly owes to biological–
+dispositional factors, such as metabolic levels (Lawrence, Thongprasert, & Durnin, 1988), processing speed (Anderson, 1992), or the
+
+The cognitive control of behavior is a socially successful way to
+steer individuals into efficacious specific behavior that is beneficial
+for themselves and their groups. Socially valued concepts can become
+linked to socially appropriate behaviors that are automatically elicited
+from a reminder of the concept or a goal linked to that concept (Bargh,
+Gollwitzer, Lee-Chai, Barndollar, & Trötschel, 2001). For example,
+people who are incidentally reminded of “success” enact competitive
+behaviors because these specific behaviors are tightly linked to the
+
+Dolores Albarracı́n, Kathleen C. McCulloch, and Allison Earl, Department of Psychology, University of Illinois; Ian M. Handley, Department of
+Psychology, Montana State University; Kenji Noguchi, Hong Li, Joshua
+Leeper, Rick D. Brown, and William P. Hart, Department of Psychology,
+University of Florida.
+The research was facilitated by grants from the National Institutes of
+Health (K02-MH01861 and R01-NR08325). We thank Ece Kumkale,
+Brian Cline, and Wei Wang, as well as the undergraduate research assistants who had worked in Dolores Albarracı́n’s lab during the 2003–2007
+academic years for their invaluable assistance with this project. We also
+thank the attitudes lab at the Psychology Department at the University of
+Florida and Martin Repetto for a discussion of the ideas reported in this
+article, and Joel B. Cohen, Kentaro Fujita, Angela Lee, and Robert S. Wyer
+for comments on an earlier article on this topic.
+Correspondence concerning this article should be addressed to Dolores
+Albarracı́n, Department of Psychology, University of Illinois, 603 East
+Daniel Street, Champaign, IL 61820. E-mail: dalbarra@uiuc.edu
+510
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+GENERAL ACTION AND INACTION GOALS
+
+genetic bases of bipolar disorder (Baum et al., 2008). There are also
+likely social factors. Somewhat surprisingly, however, social psychology has paid little attention to processes underlying general activity
+levels. Instead, social psychology has concentrated on predicting,
+changing, and priming specific motor or cognitive behaviors, such as
+increasing seatbelt use (e.g., Ajzen & Fishbein, 2005) or reducing
+prejudiced responses to other people (see Fiske & Taylor, 1991). As
+a result, there has been no theoretical exploration of the processes
+underlying action and inaction.
+This article addresses the possibility of a goal-mediated regulation
+of activity level, with a disregard for the type of activity that is
+regulated. General action and inaction goals are goals with end states
+at the extremes of the continuum of activity level (either high or low
+motor and cognitive output). When set, these goals can trigger a
+search for available and subjectively relevant means to reach these
+end states of high or low activity. That is, just as with the satisfaction
+of more specific goals, the satisfaction of general goals should proceed through the identification of available and appropriate courses of
+action that can satisfy the goal (Bargh et al., 2001; Kruglanski et al.,
+2002; Moskowitz, Li, & Kirk, 2004). Both action and inaction goals
+imply commitment of effort toward the desired end state and should
+operate like other goals (cf. Wright & Brehm, 1989).
+Although general action and inaction goals are purported to
+operate in ways similar to more specific goals, this conceptualization goes beyond current knowledge about human behavior. For
+example, in the domain of individual differences, locomotion is
+defined as the tendency to engage in goal-directed behavior and
+movement and is supposed to be orthogonal to assessment (i.e., the
+tendency to analyze and think deeply about any situation; Kruglanski et al., 2000). Likewise, past research has shown that certain
+decisions involve brain pathways that are independent of the type
+of motor behavior that is executed (Heekeren, Marrett, Ruff,
+Bandettini, & Ungerleider, 2006). In this context, our model offers
+a way in which both motor and cognitive activity (e.g., locomotion
+and assessment) can obey the same principle. As another example,
+goals have been insightfully described as systems (Bandura, 1989;
+Kruglanski et al., 2002; Pervin, 1983; Powers, 1973, 1978), but no
+theoretical or empirical work has been previously conducted on
+goals that influence activity level. General action and inaction
+goals may trigger behaviors typically construed as part of different
+systems (e.g., an achievement goal system from an affiliation goal
+system or a dietary goal system).
+In this article, we primed participants with words related to
+general action (e.g., “go,” “active”) or inaction (e.g., “rest,”
+“stop”). The experimental situations were designed so that participants had to either choose between a discreet active choice (e.g.,
+doodling or making a paper airplane) versus an inactive choice
+(i.e., putting one’s head down for rest) or could choose to display
+a continuous behavior indicative of motor or cognitive output (e.g.,
+the number of consumed food items or the amount of knowledge
+resulting from reading a text). Given a single focal way of satisfying action or inaction goals, our model’s prediction was straightforward. Specifically, action priming should lead to choosing a
+more active task and should cause more motor or cognitive output
+(e.g., choice of doodling on a piece of paper vs. rest, more learning
+vs. less learning) than inaction priming would. Goal mediation was
+assessed in subsequent experiments by examining, for example,
+whether activities that should satisfy general action and inaction
+goals reduce the behavioral effects of these primes (Marsh, Hicks,
+
+511
+
+& Bink, 1998). This pattern should not emerge if participants are
+simply executing prime-consistent behavioral procedures but are
+not motivated by, and thus remain insensitive to, the outcomes of
+their choices.
+Understanding the effects of general action and inaction goals is
+important for various theoretical and practical reasons. First, our
+hypothesis implies that people control engaging in behavior that
+leads to motor or cognitive output before they control the quality
+or type of output. The usual tenet is that people strive to perform
+useful or desirable activity (e.g., Fishbein & Ajzen, 1975), not just
+activity. Second, an interesting aspect is that these goals allow for
+top-down influences on both trivial behaviors, such as doodling
+during a lecture, as well as learning the presented material.
+Whereas conscientious and impulsive behaviors are seen as antagonistic phenomena (Barratt, 1985), we propose a mechanism that
+can produce both. Third, whereas inaction is normally seen as a
+failure to act (Roese, Hur, & Pennington, 1999), our model suggests that inaction can be an end state that people pursue. Last,
+evidence that these goals exist may be important in the context of
+goal and behavior research. Action and inaction goals, for example, may increase the likelihood of pursuing other goals that are of
+interest to researchers (D. C. McClelland, Atkinson, Clark, &
+Lowell, 1953) and fit well within the hierarchical view (Bandura,
+1989; Kruglanski et al., 2002; Pervin, 1983; Powers, 1973, 1978).
+
+EFFECTS OF GENERAL ACTION AND INACTION
+CONCEPTS AND POSSIBLE GOAL MEDIATION
+If general action and inaction goals are plausible, using general
+action and inaction words as primes should influence physical and
+mental activities of various kinds. Therefore, one way of demonstrating these goals’ existence is to show effects of general action
+and inaction words on diverse activities. This demonstration requires first presenting word primes and then allowing individuals
+to link their primed goals to the concrete behaviors that are central
+to the study. For example, individuals may be offered opportunities to either rest or perform a task. As the tasks map onto
+culturally defined means of action and inaction, the action prime
+may trigger high motor or cognitive output, whereas the inaction
+prime may trigger rest. That is, people who are primed with
+general action may choose an active task, whereas people primed
+with inaction may choose rest. By the same token, relative to
+general inaction goals, general action goals may yield more eating,
+finer segmentation of an observed behavior, higher recall of a text,
+and more effective problem solving. In other words, motor and
+cognitive output may be greater when general action rather than
+general inaction concepts are primed.
+Importantly, action and inaction goals should have goal properties, involving but going beyond mere concept activation. First,
+goals are outcome driven; they are about maximizing action or
+inaction. In many conditions, the behaviors that lead to the goal’s
+end state are likely to be as active or inactive as the end state is. For
+example, satisfying action goals may entail simply selecting more
+active behaviors (leading to more motor or cognitive output).
+Correspondingly, satisfying inaction goals may entail simply selecting more inactive behaviors. Nevertheless, other situations are
+possible. If indeed goals are at stake, behaviors should be selected
+to achieve an overall outcome regardless of the active or inactive
+quality of the intervening behaviors. As a result, a long active end
+
+ALBARRACÍN ET AL.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+512
+
+state could be potentially achieved through an inactive mean and a
+long inactive end state could be potentially achieved through an
+active mean. For instance, one may rapidly solve a problem now in
+order to sleep for an extended time afterward or briefly sleep now
+in order to solve a problem for an extended time afterward. If the
+outcomes are motivating, action goals will trigger the search for
+the longest active outcome even if the means are inactive. Likewise, inaction goals may trigger a search for the longest inactive
+outcome even if the immediate means are active. In contrast, if
+what triggers activity/inactivity is simply a procedure rather than a
+goal, immediate concept-consistent behavior may emerge irrespective of the ultimate amount of activity.
+Second, the behavioral effects of the goals on motor and cognitive
+output should be stronger before the goal is satisfied than they are
+after the goal is satisfied (Atkinson & Birch, 1970; Ferguson & Bargh,
+2004; Förster, Liberman, & Higgins, 2005; Kawada, Oettingen, Gollwitzer, & Bargh, 2004; Lewin, 1935; Marsh et al., 1998; Zeigarnik,
+1967). For example, action goals should yield more overall active
+behavior provided that no prior activity has satisfied the goal.
+Likewise, inaction goals should yield less overall active behavior
+provided that no prior inactive behavior has satisfied the goal.
+Following a satisfaction opportunity, however, these effects should
+decrease and may even reverse.
+We suggest that action and inaction goals are likely to exist as
+a natural consequence of evolutionary pressures (for an analysis of
+evolutionary pressures on cognition, see Pinkerton, 1997). Upon
+encountering new situations, for example, mere activity can introduce solutions and generate knowledge in ways that are not facilitated by specific forms of cognitive control (for a discussion of
+flexibility, see Kruglanski et al., 2000). Eventually, a useful activity may develop that reduces the need for generalized activity and
+allows for refocusing on specific behaviors. Further, when one
+specific course of action fails, there are advantages to taking a
+general approach to the problem (“I need to do something, but
+what?”). Many solutions derive from the ability to reconsider all
+possible motor and cognitive processes rather than insisting on
+specific behaviors that have led to failure in the past.
+General inaction goals may also offer advantages. To begin with,
+conserving energy is important for survival. As a result, successful
+adaptation to the environment may require a mechanism to conserve
+energy by allowing certain symbols or social stimuli to trigger cessation of activity. Furthermore, there may be positive influences of
+inaction on problem solving. For example, when all courses of action
+fail, awaiting environmental input may be the best solution. In this
+way, concepts linked to general inaction may prevent hopeless action
+while an appropriate behavior is identified. As another example, the
+absence of immediate action during the U.S. Cuban missile crisis (The
+Avalon Project, 2007) produced better outcomes than those that were
+expected from a more active response.
+
+THE PRESENT ARTICLE
+The procedures used to prime goals in recent years (e.g., Bargh
+& Chartrand, 1999; Bargh et al., 2001; Moskowitz et al., 2004)
+seemed ideal to study general action and inaction goals. As general
+action goals presumably influence a variety of behaviors, incidental exposure to the word “action” may stimulate high frequency of
+behaviors with motor and/or cognitive output. In contrast, incidental exposure to the word “inaction” may stimulate people to rest
+
+and to be less active, even when active behaviors are situationally
+required (e.g., as part of the experimental procedures). Correspondingly, the word “rest” may decrease behaviors yielding high
+motor or cognitive output across a variety of situations.
+We used words like “action” and “go” versus “rest” and “stop”
+as part of word completion tasks, detection of stimuli presented on
+the screen tasks, or scrambled sentences tasks. In Experiments 1,
+2, and 3, general action primes were hypothesized to yield processes conducive to more motor output to a greater extent than
+inaction primes were. In Experiment 1, previously primed participants were told that they would have a break during which they
+could choose to fold or doodle on a piece of paper or to close their
+eyes and rest. Based on our hypotheses of more motor output in
+response to action rather than inaction concepts, the action primes
+should elicit higher proportion of folding/doodling than the inaction primes should, whereas the inaction primes should elicit a
+higher proportion of rest than the action primes should. In Experiment 2, word primes of action or inaction were followed by an
+opportunity to eat grapes that were presented to the study participants. Given that eating is a process involving motor output (e.g.,
+delivering hand to mouth and chewing), we hypothesized that
+action primes would yield more eating than inaction primes would.
+In Experiment 3, previously primed participants watched a video
+of a college student performing a series of daily activities, such as
+checking e-mail and having a drink (Ratcliff et al., 2004). The
+participants’ task was to watch the video and to press the computer
+space bar to divide the video into as many units of meaningful
+behavior as they identified. The number of presses was expected to
+be higher after action primes than after inaction primes.
+Experiments 4 and 5 were designed to demonstrate effects of the
+primes on two cognitive activities, with the expectations of more
+recall and problem solving in action-prime conditions rather than
+inaction-prime conditions. In Experiment 4, we used brief supraliminal exposures (50 ms) to action versus inaction words and then
+asked participants to study a passage about evolutionary psychology. Correct recall of the material afterward was expected to be
+higher after action primes than after inaction primes. In Experiment 5, participants first received the primes and then received
+verbal and math problems to solve. Given higher cognitive output,
+we expected a higher number of correctly solved problems when
+the prime was action than when the prime was inaction.
+The last two experiments of our series were designed to validate
+the assumptions that goals may mediate the effects of general
+action and inaction words. In Experiment 6, participants first
+completed word fragments that included either action or inaction
+completions. Similar to the earlier experiments, half of the participants (control condition) chose to rest or work on an intellectual
+problem for 30 s. The other half (experimental condition) of the
+participants chose either 30 s of rest followed by 3 min of solving
+verbal or math problems or 30 s of problem-solving followed by 3
+min of rest. The outcome variable was the dichotomous immediate
+choice, which should be prime consistent in the control condition
+but prime inconsistent in the experimental condition.
+In Experiment 7, we primed participants with action, control, or
+inaction words and then introduced an intermediate task that was
+either active or inactive. The task could be either doodling on/
+folding an available piece of paper or resting for 2 min. Following
+the intermediate task, participants read a text about vegetarianism
+and listed their thoughts about what they read. The number of
+
+GENERAL ACTION AND INACTION GOALS
+
+listed thoughts was used as a measure of motor/cognitive activity
+and should be greater when action goals are operating. Thus,
+unsatisfied action goals should produce a greater number of
+thoughts than unsatisfied inaction goals would. Importantly, however, these effects should be attenuated or even reversed when the
+preceding task had the potential to satisfy the primed goals.
+
+EXPERIMENTS 1, 2, AND 3: MOTOR OUTPUT
+Experiment 1: Folding Paper Airplanes/Doodling Versus
+Resting
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Overview
+In this experiment, participants first completed several word
+fragments to form a word. For about half of these participants,
+several of the completed words related to action. For the other half,
+the words related to inaction. Next, participants were asked to clear
+their minds by choosing either to fold or doodle on a piece of paper
+(active task) or to simply relax (inactive task). We predicted that
+participants primed with action would be more likely to choose the
+active, whereas participants primed with rest would be more likely
+to choose the inactive behavior. Importantly, the primes should
+produce these patterns of behavior because they activate action and
+inaction concepts and possibly concept-related goals. Therefore,
+prior to this experiment, we obtained evidence about concept
+activation using a lexical decision task. In another pretest, measures of mood were included to rule out the possibility that the
+primes had effects on positive and negative feelings.
+
+Method
+Participants and Design
+Ninety-eight male and female students attending the University
+of Florida participated in this experiment in return for partial
+course credit. Participants were randomly assigned to either an
+action-prime condition or an inaction-prime condition. The design
+was a two-cell between-subjects design. There were also two
+pretests performed on independent study samples.
+
+Experimental Procedures
+Participants were first told that they would complete several
+tasks within their experimental session. The first of these tasks
+ostensibly measured verbal ability and was designed to prime
+participants with an action or an inaction concept. After the priming, participants were given an actual choice between an active and
+inactive task. The choice was followed by several filler tasks.
+Action and inaction primes. In the beginning of this experiment,
+we explained that we needed to administer a quick measure of verbal
+ability. Participants were asked to complete 20 words, 8 of which
+connoted either “action” or “inaction.” Depending on random allocation, half of the participants received 8 incomplete rest-related words
+that could be completed as “still,” “pause,” “interrupt,” “calm,”
+“freeze,” “unable,” “stop,” and “paralyze,” whereas the other half
+received 8 action-related words that could be completed as “motivation,” “doing,” “behavior,” “engage,” “action,” “make,” “go,” and
+“active.” Most of these words had high associations with “action” and
+“rest” in the (empirically derived) Computerized Edinburgh Associa-
+
+513
+
+tive Thesaurus (Kiss, Armstrong, Milroy, & Piper, 1973). Some
+critical pretests for the concept activation and potential effects on
+mood are detailed presently.
+Choice of tasks. After completing the priming task, participants were told to clear their minds before proceeding to other
+tasks. With this ostensible purpose, participants were given 2 min
+of rest for which they could choose one of two tasks. Specifically,
+participants read the following:
+We will now give you two minutes to clear your mind. During this
+time, you should either: 1) remain seated and close your eyes for two
+minutes. During this time you should try to calmly relax and clear
+your mind, give your brain a break, or 2) do something with the scrap
+piece of paper you see at your computer station for two minutes.
+During this time you can doodle on the paper, fold it, or even make
+something like a paper airplane.
+
+The order of presentation of the active and inactive options was
+counterbalanced. After making their choice, participants learned
+that the computer would automatically proceed to the next screen
+after the 2 min had elapsed. After the 2-min period, participants
+were asked, “Did you remain seated with your eyes closed or did
+you do something with the piece of paper?,” and they responded by
+checking the box for either the number 1 (I sat with my eyes
+closed) or 2 (I did something with the paper). These responses
+were verified by observation on the part of a research assistant.
+
+Pretesting
+Two independent groups of 60 and 35 (men and women, respectively) participants were used to determine whether the word
+primes produced corresponding concept activation and to rule out
+possible mood effects. These participants were primed with action
+and inaction as in the main study.
+Concept activation check. Following the word-completion
+manipulation, the first pretest (N ⫽ 60) entailed a lexical decision
+task in which 10 action words shown in the priming task (e.g.,
+“active,” “go,” “move,” and “behavior”), 10 action words not
+shown in the priming task (e.g., “run,” “jump,” “hit,” and “build”),
+10 previously shown inaction words (e.g., “stop,” “calm,”
+“freeze,” and “relax”), and 10 not-previously-shown inaction
+words (e.g., “dormant,” “sleep,” “rest,” and “serene”) were presented along with corresponding sets of 10 filler words (e.g.,
+“day,” “wall,” “sponge,” and “lemonade”). The fillers were
+matched in word frequency, word length, and number of syllables
+to their respective critical words. A total of 60 nonwords (e.g.,
+“bitavior,” “mobe,” srod,” and “cilt”) were also included.
+The lexical decision task consisted of 10 critical blocks with six
+words from each word category and six nonwords per block.
+Before the critical blocks, one block of practice trials was run
+containing six neutral words (e.g., “television,” “apple,” and
+“this”) and six nonwords. Half of the participants were instructed
+to press the “9” key on the keyboard if they thought the stimulus
+on the screen was a word. Correspondingly, they were instructed to
+push the “1” key on the keyboard if they thought that the stimulus
+was a nonword. For the other half of the participants, the correspondence of the keys and words/nonwords was switched. (Order
+did not make a difference.) The participants were instructed to
+respond as quickly and accurately as possible.
+
+ALBARRACÍN ET AL.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+514
+
+Reaction times greater than 3,000 ms and less than 100 ms were
+trimmed, and words not correctly completed (over all words: M ⫽
+2.30%, SD ⫽ 2.34%, incorrect completions) were set as missing
+values (Bargh & Chartrand, 2000). Then, means and standard
+deviations of reaction times of all the words were calculated for
+each participant. The responses greater than 2.5 standard deviations from the mean for each participant were excluded (Bargh &
+Chartrand, 2000). After that, reaction times for each word set were
+averaged (Bargh & Chartrand, 2000).
+Checks for mood effects. A separate group of students (N ⫽
+35) underwent the same manipulation procedures as the main
+study and then reported their affective feelings. Specifically, after
+the word-completion task, participants used 1 to 11 scales to
+indicate whether they felt good versus bad, disappointed versus
+satisfied, sad versus happy, and displeased versus pleased. Responses to these four scales were used as an index of feelings
+valence (␣ ⫽ .97).
+
+Results
+Pretests of Effects of Word Primes
+The pretests were conducted to verify that the primes produced
+corresponding concept activation without altering participants’
+mood. Each test is described in turn.
+Concept activation. We first analyzed the mean time to respond to action, inaction, and filler words as a function of primes
+using an analysis of variance (ANOVA).1 These analyses indicated
+that action primes yielded faster responses than inaction primes did
+for all types of words (for action vs. inaction primes, respectively:
+action words, M ⫽ 562.74, SD ⫽ 62.74 vs. M ⫽ 623.81, SD ⫽
+144.15; action-word-corresponding fillers, M ⫽ 578.94, SD ⫽
+72.02 vs. M ⫽ 628.83, SD ⫽ 135.27; inaction words, M ⫽ 595.18,
+SD ⫽ 63.53 vs. M ⫽ 628.77, SD ⫽ 145.76; inaction-wordcorresponding fillers, M ⫽ 594.38, SD ⫽ 67.64 vs. M ⫽ 652.26,
+SD ⫽ 157.13). Given these generalized effects of the primes on
+response speed, the proper comparisons entail corrected response
+times, which were obtained after subtracting either action or inaction words from their corresponding matched fillers. Positive numbers in each case indicate that the reaction times for the action or
+inaction targets were faster (i.e., more activation) than the ones for
+fillers were, a zero indicates no difference, and negative numbers
+suggest greater difficulty for targets than for fillers.
+The corrected action versus the corrected inaction indexes were
+analyzed using an ANOVA with type-of-word index as a withinsubjects factor and prime (action vs. inaction) as a betweensubjects factor. As one might expect if the primes elicit opposing
+concepts, there was a significant interaction between type-of-word
+index and prime, F(1, 58) ⫽ 4.05, p ⫽ .04. The direction of the
+index of activation of action words was higher in action-prime
+conditions than in inaction-prime conditions (M ⫽ 16.20, SD ⫽
+36.40, and M ⫽ 5.02, SD ⫽ 47.76, respectively), p for contrast ⫽
+.31. Correspondingly, the direction of the index of activation of
+inaction words was higher in inaction-prime conditions than in
+action-prime conditions (M ⫽ 23.49, SD ⫽ 54.74, and M ⫽
+⫺0.80, SD ⫽ 42.66, respectively), p for contrast ⫽ .06. The
+absolute effect sizes corresponding to each contrast did not differ
+significantly from each other and in combination reached the
+significance indicated by the interaction. These results suggest that
+
+action primes activated action concepts more than they did inaction concepts, whereas inaction primes activated inaction concepts
+more than they did action concepts.
+Feelings. With respect to effects on feelings, mood was not
+affected by the manipulation. Specifically, participants felt similarly positive feelings in action and inaction conditions (M ⫽ 8.18,
+SD ⫽ 1.88 vs. M ⫽ 7.66, SD ⫽ 2.85, respectively), F(1, 33) ⫽
+0.41, ns. Mood was also measured in several of the subsequent
+studies with similarly null results, which are not presented for the
+sake of brevity. In combination with the lexical decision task data,
+these null effects render confidence in the possibility of concept
+activation without associated differences in feeling valence.
+
+Effects on Active Versus Inactive Choices
+The analysis of participants’ behavior in Experiment 1 was
+consistent with predictions. Participants who received the action
+prime were more likely to choose the active task (62%, N ⫽ 33)
+than they were the inactive task (38%, N ⫽ 20). In contrast,
+participants who received the inaction prime were more likely to
+choose the inactive task (64%, N ⫽ 29) than they were the active
+task (36%, N ⫽ 16). According to a kappa statistic, the association
+between the action/inaction prime and the dichotomous behavioral
+measure was statistically significant, ␬(1, 98) ⫽ .27, p ⫽ .008.
+
+Discussion
+The data from Experiment 1 supported the hypothesis that subtly
+manipulated general action and inaction concepts can yield choices
+with relatively more and less motor output without producing differences in affective feelings. This pattern is consistent with the possibility that action and inaction goals influence motor output. To gain
+further support for our hypothesis, a second experiment was conducted using a different paradigm that can also capture processes with
+overt motor output. This second study also included a check for
+suspicion to rule out experimental demand effects. Later studies
+validated the goal mediation interpretation of our findings.
+
+Experiment 2: Eating Behavior
+Overview
+The purpose of Experiment 2 was to test whether action and
+inaction concepts correspondingly increase or decrease the amount
+of motor output associated with eating. The first task was the
+word-completion task used in the first experiment. Then, participants were given a chance to sample some grapes from a bowl
+brought to their computer station.
+
+Method
+Participants and Design
+We recruited 38 undergraduate students at the University of
+Florida to participate in the study in exchange for credits in an
+1
+An additional analysis showed no main effect or interactions for the
+use of words that were previously shown as primes and words not previously shown. This finding suggests that the concept activation was strong.
+
+GENERAL ACTION AND INACTION GOALS
+
+introductory psychology course. A two-cell (prime: action vs.
+inaction) between-subjects design was employed.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Procedures and Dependent Measure
+Participants in this study first completed a series of word strings
+similar to the ones in the first study. Next, participants were told
+that they would have an opportunity to sample grapes that have
+been kept fresh in a new type of plastic container. After that, the
+research assistant presented the participant with a Styrofoam bowl
+containing 15 red grapes. The dependent measure in this study was
+the number of grapes eaten, which was obtained by asking participants at the very end of the experiment, before the debriefing,
+“How many grapes are left in your bowl?” Research assistants also
+counted the number of grapes remaining at the end of the session
+to verify participants’ responses. Furthermore, at the end of the
+study, several questions probing for suspicion and experimental
+demand were included. Specifically, participants were asked (a)
+“what was the purpose of the experiment?,” (b) “do you think any
+tasks were related?,” (c) “do you think any earlier task affected
+your eating?,” and (d) “did you notice anything about the experiment that seemed strange?” Responses were coded for suspicion
+and awareness of the hypothesis.
+
+Results and Discussion
+The number of grapes participants ate was analyzed as a function of prime. As predicted, however, those primed with action ate
+more than those primed with inaction (M ⫽ 13.11, SD ⫽ 3.31 vs.
+M ⫽ 9.28, SD ⫽ 4.74). This predicted pattern was statistically
+significant, F(1, 36) ⫽ 8.18, p ⫽ .007, and consistent with the
+hypothesis that action and inaction goals affect motor output.
+Importantly, no participant manifested suspicion or guessed the
+study hypothesis, thus increasing confidence in the subtlety of our
+manipulation. Similar checks in subsequent studies also revealed
+no awareness of the experimental hypothesis.
+In sum, Experiment 2 confirmed our hypothesis that priming
+participants with action concepts would produce more motor eating behavior. Experiment 3 investigated segmentation of an observed behavioral sequence reflected in segmentation/space-bar
+pressing. We expected more frequent segmentation/space-bar
+pressing following action primes than following inaction primes.
+This experiment also included a control-prime condition.
+
+Experiment 3: Space-Bar Pressing to Segment Behavior
+Overview
+In Experiment 3, we expected that segmenting observed behavior would be contingent on the priming of action or inaction.
+Behavioral-segmentation output was measured by the number of
+times participants pressed the space bar on the computer keyboard
+while watching the videotaped behavior of another person. Specifically, participants were primed with action, inaction, or neutral
+words, and then watched and segmented a 3-min long video of a
+student performing some mundane behaviors in a dormitory.
+We predicted that participants initially primed with action concepts
+would produce more behavioral segments than would participants
+who received inaction concepts. A growing body of work within the
+person-perception literature has shown that more effortful cognitive
+
+515
+
+processing of a person’s behavior yields greater number of produced
+segments (e.g., Handley & Lassiter, 2002; Lassiter, Briggs, & Bowman, 1991; Lassiter, Geers, & Apple, 2002; Lassiter, Stone, & Rogers, 1988). Although behavioral segmentation can be considered a
+measure of both motor and cognitive output, space-bar pressing
+comprises a precise measure of motor behavior. The following two
+experiments, however, included cognitive performance as a direct
+measure of cognitive output.
+The behavior of the control participants was expected to fall
+somewhere in between the action and inaction conditions. That is,
+the relative placement of the control should depend on the baseline
+level of activity of participants in a given study, and may vary with
+a number of factors (e.g., time of day, time of the semester,
+weather). Importantly, however, the control condition should be
+neither less active than the inaction-prime condition nor more
+active than the action-prime conditions. Otherwise, the primes
+could not be construed as eliciting behavior at the extremes of the
+activity continuum.
+
+Method
+Participants and Design
+One hundred eighty-six male and female students attending the
+University of Florida participated in this experiment in return for
+partial course credit. Participants were randomly assigned to
+action-, inaction-, or control-prime conditions.
+
+Procedure
+Participants were primed with action or inaction using the same
+procedures as in Experiment 1. However, Experiment 3 further
+included a control task containing eight word fragments that could
+be completed as words unrelated to either action or inaction (e.g.,
+“pear”). After completing the priming task, participants were informed that they would watch a short silent video as part of a study
+on person perception. They were asked to identify any meaningful
+behavior in the video and received examples of meaningful behaviors (see Ratcliff et al., 2004). An example illustrated various
+ways to segment the behaviors enacted by an individual reading
+instructions to a participant. Specifically, the participant might
+identify many behaviors, such as the individual standing in front of
+the participant, reading instructions, talking out loud, making eye
+contact and other gestures, listening to the participant, and answering the participant’s questions. Or, the participant might identify
+fewer behaviors, such as noting that the individual is standing,
+reading out loud, and responding, or even only that the individual
+is communicating instructions. The instructions then stressed that
+the participants should identify whatever behaviors seemed natural
+and meaningful to them and that there was no right or wrong way
+of completing this task. After this clarification, participants were
+asked to press the space bar of the computer every time they
+identified a meaningful behavior in the upcoming video.
+Participants then watched a 3-min video of a Caucasian male in
+his early 20s engaging in mundane activities, such as drinking a
+beer, working on his computer, and sifting through papers on his
+desk. The computer recorded the number of times each participant
+pressed the space bar while watching the video. This tally served
+as our dependent measure, with greater number of units indicating
+
+ALBARRACÍN ET AL.
+
+516
+
+more output or active behavior. As mentioned before, this measure
+should detect motor pressing of the space bar, in addition to
+perhaps cognitive thought about the observed behaviors.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Results and Discussion
+Three participants identified no meaningful behaviors from the
+video and 5 other participants segmented the behavior sequence at a
+rate of 3 standard deviations above the mean for this measure. Therefore, the data from these individuals were removed from the below
+analyses, even though this procedure did not significantly alter the
+results. The reported results are based on data from 178 participants.
+The number of meaningful behaviors identified by participants was
+analyzed as a function of prime (action, control, or inaction) using an
+ANOVA. The means corresponding to this analysis indicate that
+action primes (M ⫽ 35.85, SD ⫽ 24.98) led to identifying more
+behaviors than did either control (M ⫽ 29.02, SD ⫽ 18.85) or inaction
+primes (M ⫽ 26.67, SD ⫽ 15.99). Moreover, the mean of the control
+prime fell in between the action and inaction primes. This pattern of
+means was supported by a significant effect of the primes, F(2,
+175) ⫽ 3.28, p ⫽ .04. In addition, participants primed with action
+identified significantly more behaviors than did either participants
+primed with inaction or participants in the control condition ( p for
+contrasts ⫽ .02 in each case). Finally, participants in the inaction and
+control conditions did not significantly differ in the number of identified behavioral units ( p for contrast ⫽ .48). In sum, the study
+confirmed that the effects of the primes mapped onto action and
+inaction rather than producing two different effects falling both above
+or both below the baseline level of activity. Although in this study the
+difference between control and inaction primes was nonsignificant, a
+later study produced a significant difference between control and
+inaction primes.
+In conclusion, this study demonstrated that action (vs. inaction)
+primes yield a larger number of presses to segment observed
+behavior. Thus, these data lend further support to our argument
+that general action and inaction concepts can trigger various forms
+of activity. In addition, the study showed that the action primes
+produced states that were more active than the control condition
+did. Importantly, however, the inaction-prime condition did not
+differ significantly from the control condition. This finding may
+imply that the baseline level was fairly inactive to begin with but
+suggests the need for further data comparing inaction and control
+primes. Thus, we tackle this issue later in Experiment 6.
+
+EXPERIMENTS 4 AND 5: COGNITIVE OUTPUT
+Experiment 4: Text Recall
+Overview
+Experiment 4 investigated the association between general action/inaction primes and processes with strictly cognitive output.
+Specifically, the purpose was to determine whether action concepts
+promote greater recall of written material than inaction concepts
+do. In this study, participants first received an ostensible reactionspeed test. In reality, this test contained briefly presented supraliminal action or inaction primes. After the test, participants read
+an informational passage about dominance hierarchies in different
+types of societies. After reading this material, they completed a test
+assessing their recall of the information contained in the passage.
+
+Method
+Participants and Design
+Thirty-seven female and male undergraduate students at the
+University of Florida participated in exchange for credits in an
+introductory psychology course. A two-cell (prime: inaction vs.
+action) between-subjects design was employed.
+
+Procedures
+Under the pretense of a reaction-speed test, participants were
+first primed with action versus inaction goals. Following this
+priming task, participants were asked to quietly study a text for 6
+min. Immediately after the presentation of this passage, participants answered nine open-ended questions about the material. The
+coded correctness of the answers was used to determine the effects
+of action versus inaction concepts on amount of recall.
+
+Materials and Measures
+Priming task. The action or inaction goals were primed using a
+16-item priming task. Specifically, each of the primes was presented
+on the center of the screen for 50 ms following a string of
+“&&&&&&” (presented 100 ms before the prime), which functioned
+as a fixation point, and then followed by “XXXXXX” (presented after
+the prime was on the screen for 50 ms). The participants’ task was to
+press the space bar on the keyboard as quickly as possible when
+“XXXXXX” appeared on the screen. When participants pressed the
+space bar, another priming sequence began. Two variants of this task
+were constructed, one to prime general action and the other to prime
+general inaction. The primes and fillers used in these tasks were the
+same as those used in Experiment 1. After the task was complete, all
+participants read “You did a good job, congratulations!” regardless of
+their actual reaction times.
+Educational passage on evolutionary psychology. We used a
+771-word passage extracted from an evolutionary psychology book.
+This passage described the history and development of human dominance hierarchies. The material was presented to participants sentence by sentence with a 15-s break between each. Participants were
+instructed to think about the passage while reading it quietly.
+Dependent measures. A set of nine open-ended questions was
+used to assess participants’ recall of the material. Two independent
+raters coded each question in terms of correctness (interrater
+kappa ⬎ .93). For example, the passage argued that modern
+humans, like other primate species, form stable dominance hierarchies that have been observed among preschool children, human
+adolescents, and adults in prison. Correspondingly, the first question asked, “What groups were observed to verify this?” The
+correct answer was “human preschool children, human adolescents, and adults in prison.” Answers that failed to mention any of
+the three groups were coded as 0 (incorrect) whereas answers that
+correctly identified at least one group were coded as 1 (correct).
+An overall index of correctness was computed by obtaining the
+proportion of correct responses out of nine questions. Higher
+numbers in this index indicated higher recall of the material.
+
+Results and Discussion
+The means of correctness were analyzed as a function of prime
+(inaction vs. action) using an ANOVA. As expected, recipients of
+
+GENERAL ACTION AND INACTION GOALS
+
+action primes responded with more correct answers than did recipients of inaction primes (M of proportions ⫽ 0.58, SD ⫽ 0.11
+vs. M ⫽ 0.45, SD ⫽ 0.21, respectively), F(1, 35) ⫽ 5.55, p ⫽ .03.
+Thus, this experiment verified that action and inaction primes
+influence levels of cognitive activities, extending the previous
+findings beyond effects on motor behavior. These effects are
+consistent with the possible activation of general action and inaction goals and were conceptually replicated in Experiment 5.
+
+Experiment 5: Number of Solved Problems
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Overview
+In this experiment, participants arranged previously scrambled
+sentences that contained a high proportion of words related to
+either action or inaction. Following a brief preparation period,
+participants were told to do their best and proceeded to complete
+verbal and math problems. We anticipated that action priming
+would yield more correct solutions relative to inaction priming.
+
+Method
+Participants and Design
+Participants were 36 students from introductory psychology
+classes at the University of Florida who participated in exchange
+for credit. The design was a two-cell (prime: action or inaction)
+between-participants design with number of solved problems as
+the main dependent variable.
+
+Experimental Procedures
+Priming task. Action or inaction was primed using a scrambledsentence task. Participants were told that the experimenters were pilot
+testing an instrument to assess how people form sentences. In this
+task, participants rearranged four of five words to make a coherent
+sentence. Participants were given 12 scrambled sentences, 8 of which
+contained action-related words (e.g., book, action, is, the, fictional) or
+inaction-related words (e.g., the, tells, inaction, watch, time). The
+other 4 sentences contained control fillers (e.g., shoes, feet, green,
+cover, your). Participants performed this task on the computer and had
+an unlimited amount of time to complete it. The primes were never
+part of the sentence to be unscrambled.
+Performance measure. After the priming, participants were
+asked to think about how they would approach upcoming SATtype problems and were then presented with the first problem on
+the computer. All participants completed 21 questions that assessed verbal ability (antonyms, sentence completion, and analogies) and quantitative ability (solving word problems and algebraic
+equations). An example of these problems follows (correct answer
+is italicized):
+COLOR : SPECTRUM :
+A. TONE : SCALE,
+B. SOUND : WAVES,
+C. VERSE : POEM,
+D. DIMENSION : SPACE,
+E. CELL : ORGANISM.
+
+517
+Results and Discussion
+
+The number of correctly solved problems was submitted to an
+ANOVA with prime as the independent variable. The analysis
+revealed a main effect of prime on number of solved problems,
+F(1, 34) ⫽ 5.68, p ⫽ .02, demonstrating that participants primed
+with action performed better than participants primed with inaction
+did (M ⫽ 12.83, SD ⫽ 1.86 vs. M ⫽ 10.78, SD ⫽ 3.15, respectively). Thus, this study confirmed that action and inaction primes
+produced, respectively, higher and lower levels of cognitive output, as might be expected from the activation of action and inaction
+goals.
+
+EXPERIMENTS 6 AND 7: GOAL PROPERTIES
+Experiment 6: Outcome Sensitivity
+Overview
+Experiments 1–5 established the presence of a general effect of
+general action and inaction primes along with concept activation, in
+the absence of differences in mood. Although these findings are
+consistent with a goal activation interpretation, they are in no way
+conclusive. For example, the effect could be due to direct motor/
+cognitive activation following the concept, as has been reported in
+various disciplines of psychology (Bargh, 1990; Hauk, Johnsrude,
+& Pulvermuller, 2004). The two possibilities are of course not
+mutually exclusive, but it is important to determine whether goal
+mediation was implicated.
+One defining characteristic of goals is directing people’s
+behavior toward a particular outcome. Suppose that the observed active behavior following action primes is motivated by
+the goal to be active. In this case, recipients of an action prime
+may be able to choose a course of action that gives them the
+best opportunity to be active even if this choice implies a delay
+in satisfaction. Likewise, recipients of an inaction prime may be
+able to choose a course of action that gives them the best
+opportunity to be inactive even if this choice implies a delay of
+this opportunity. For this purpose, in Experiment 6, participants
+in the experimental condition were given the choice of (a)
+solving a verbal or math problem for 30 s followed by 3 min of
+rest versus (b) resting for 30 s followed by 3 min of solving
+verbal and math problems. The choices of these participants
+were compared against the choices of participants in the control
+condition who, after the priming, were simply asked to choose
+between 30 s of rest and 30 s of problem solving. If participants
+who receive action primes are motivated to be as active as
+possible, participants in the experimental condition should
+choose 30 s of rest as a way of accessing 3 min of problem
+solving. Correspondingly, if participants who receive inaction
+primes are motivated to be as inactive as possible, they should
+choose 30 s of problem solving as a way of accessing 3 min of
+rest. Notably, these effects could not be explained by mere
+concept activation. Activating the concept could explain the
+consistent choices in the control condition but should also
+produce the same bias in experimental conditions. That is, if
+motor representations are activated without goals, their effects
+should be apparent on the choice immediately after the prime
+
+ALBARRACÍN ET AL.
+
+518
+
+(e.g., 30 s of problem solving) rather than on the later behavior
+choice (e.g., 3 min of rest).2
+
+Method
+Participants
+Participants were 102 male and female students at Montana
+State University participating in exchange for credit. The design
+was a 2 (prime: action vs. inaction) ⫻ 2 (task description: control
+vs. experimental) factorial.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Experimental Procedures
+Participants were primed using the word-completion task and
+then were asked to choose a task to ostensibly clear working
+memory. Participants were told that several tasks were available
+for control purposes. In the control condition, we asked participants to clear their minds before proceeding to other tasks. With
+this ostensible purpose, participants were asked to choose one of
+two tasks for the upcoming 30 s. Specifically, participants read
+“During this brief time, you can either wait quietly and do nothing
+for about 30 seconds, or you can solve an SAT-like problem.” In
+the experimental condition, participants were told to clear their
+mind in one of two ways:
+If you choose to wait and do nothing for about 30 seconds now, the
+computer will direct you to solve SAT-like problems later, for 3
+minutes.
+Or
+If you choose to solve an SAT-like problem for about 30 seconds now,
+the computer will direct you to closing your eyes and resting later, for
+3 minutes.
+
+The order of the options to rest versus to solve problems was
+counterbalanced. This factor had no effect on choices and therefore
+received no further attention. Like in Experiment 1, participants’
+choices were recorded and verified by observation on the part of a
+research assistant. Examples of the problems we used, which were
+fairly easy, follow:
+Which one of the five choices makes the best comparison? LIVED is
+to DEVIL as 6323 is to:
+A. 2336
+B. 6232
+C. 3236
+D. 3326
+E. 6332
+Which one of these five is least like the other four?
+A. Horse
+B. Kangaroo
+C. Cow
+D. Deer
+
+problems following action primes but to rest following inaction
+primes. In addition, we hypothesized that this effect would reverse
+if the initial problem solving or rest was construed as a means to
+attain longer times resting or problem solving, respectively. This
+interactive prediction was tested by means of a logistic regression
+with the choice of immediate behavior (1 ⫽ problem solving, 0 ⫽
+rest) as the outcome variable and word prime (1 ⫽ action, ⫺1 ⫽
+inaction) and description of the task (1 ⫽ experimental, ⫺1 ⫽
+control) as predictors. The analysis yielded a significant interaction
+between prime and task description, Wald ␹2(1, N ⫽ 102) ⫽ 7.73,
+p ⫽ .005, a significant effect of the prime, Wald ␹2(1, N ⫽ 102) ⫽
+4.55, p ⫽ .03, and a nonsignificant effect of the task description,
+Wald ␹2(1, N ⫽ 102) ⫽ 1.44, p ⫽ .23. The percentage of
+participants who selected the active task for the upcoming 30 s
+appear in Figure 1. Contrasts were performed by coding the four
+cells from 1 to 4 and using logistic regression to test for the
+differences. As shown in Figure 1, in the control condition, participants were more likely to choose the initial active task when
+they were primed with action rather than with inaction, p for
+difference ⬍ .019. In contrast, in the experimental condition,
+participants were more likely to choose the initial active task when
+they were primed with inaction rather than with action, p for
+difference ⬍ .006.
+In conclusion, Experiment 6 provided evidence that the effects
+observed in Experiments 1–5 are due to the influence of general
+goals. Whereas control participants primed with action (vs. inaction) chose active immediate tasks, experimental participants
+primed with action (vs. inaction) chose to be inactive initially to
+participate in a longer subsequent active task. This reversed effect
+of the primes in experimental conditions can be plausibly explained by goal mediation. After all, goals do not produce behavior
+in a blind fashion but with direction toward maximizing a particular outcome. In contrast, mere concept activation is unable to
+explain this sensitivity to the outcome of one’s behavioral choices.
+
+Experiment 7: Effect of Satisfaction
+Overview
+Like Experiment 6, Experiment 7 was designed to determine
+whether goals are implicated in the effects of the action and
+inaction primes obtained in Experiments 1–5. Participants were
+first primed with action, control, or inaction words and then
+engaged in a brief randomly assigned task that could be either
+active (doodling) or inactive (resting). After the task, participants
+read a text and wrote down their thoughts about it. A greater
+number of listed thoughts was taken as an indication of greater
+cognitive activity and should be greater when participants have an
+action goal rather than when they have an inaction goal.
+The inclusion of the task was designed to test whether the
+effects of the primes are discontinued when people perform behaviors that can satisfy the goal (Bargh et al., 2001; Kruglanski et
+al., 2002; Moskowitz et al., 2004). An action goal should be
+
+E. Donkey
+
+Results and Discussion
+We predicted that control participants would display the same
+pattern as the participants from Experiment 1, choosing to solve
+
+2
+As another possibility, if conceptual priming operates, the primes may
+produce no noticeable effects. That is, the concepts of action and inaction
+appear in both choices of brief rest followed by longer problem solving as
+well as brief problem solving followed by longer rest. Hence, both choices
+may be selected in equal proportions.
+
+74
+69
+64
+59
+54
+49
+44
+39
+34
+29
+24
+
+Action p
+prime
+Inaction prime
+
+Control condition
+
+Experimental
+condition
+
+Figure 1. Effects of primes on the percentage of participants who chose
+to problem solve and how the choice was described (experimental vs.
+control): Experiment 6.
+
+present when participants were primed with action and had no
+opportunity to be active, and an inaction goal should be activated
+when participants were primed with inaction and had no opportunity to be inactive. In contrast, if the effects of the primes are goal
+mediated, action and inaction primes followed by an immediate
+prime-consistent task should have a different effect. In particular,
+these satisfied action goals should yield less activity than would
+unsatisfied action goals, and satisfied inaction goals should yield
+more activity than would unsatisfied inaction goals. Whether satisfied goals return to baseline level of efforts (i.e., no different
+from control-prime conditions) is an empirical question. Satisfied
+action goals may either produce the same effort as control conditions, more effort than control conditions, or less effort than
+control conditions. All these possibilities would indicate that goal
+satisfaction decreased striving toward the desired outcome. Finding the same or more effort would indicate mere deactivation of
+the goal, whereas less effort would indicate the sort of rebound
+effect that is occasionally observed in studies of goal satisfaction
+(Marsh et al., 1998).
+
+Method
+Participants in this study were primed with action words, control
+words, or inaction words using the word-completion task used
+previously. At that time, half of the participants were asked to take
+a break and relax with their eyes closed, whereas the other half was
+asked to doodle or fold a piece of paper into an airplane. If goals
+are at stake, relaxing would satisfy inaction goals but not action
+goals, whereas doodling/folding would satisfy action goals but not
+inaction goals. Following the manipulation of goal satisfaction, all
+participants received a passage about vegetarianism and listed their
+thoughts about the text.
+
+Participants and Design
+Participants were 98 students at the University of Florida who
+participated in exchange for credit in an introductory psychology
+class. The design was a 3 (prime: action, control, or inaction) ⫻ 2
+(task: active vs. inactive) factorial.
+
+Procedures and Measures
+We introduced the action, control, and inaction primes as part of
+the previously used word-completion task. Then, we introduced
+
+519
+
+the manipulated active or inactive task and gave participants a text
+to read.
+Active and inactive task. After the word-completion task, we
+explained to participants that there would be a 2-min break with
+the ostensible objective of clearing their mind. Participants in
+inactive-task conditions received instructions to rest, closing their
+eyes and waiting to proceed after the 2 min elapsed. In contrast,
+participants in active-task conditions were asked to engage in
+physical movement. Specifically, we indicated that a piece of
+paper had been provided at their workstations to facilitate movement and that they should fold it into a paper airplane or doodle on
+the paper. We requested that they engage in the task silently until
+the computer proceeded to the next screen after 2 min passed.
+Text reading. The informational passage about vegetarianism
+contained approximately 500 words and included scientific evidence about the effects of vegetarianism. Participants read the text at
+their own pace and were then asked to list their thoughts about it.
+Thought listing. After reading the text, participants received
+instructions to type the thoughts they had while reading the text on
+a computer. For analyses, we counted the number of thoughts
+listed by each participant.
+
+Results
+We used an ANOVA to examine the number of listed thoughts
+as a function of the word primes and assignment to either active or
+inactive tasks. This analysis revealed a significant two-way interaction between prime and task, F(2, 92) ⫽ 4.36, p ⫽ .02, and a
+significant effect of task, F(1, 92) ⫽ 7.57, p ⫽ .007, along with
+nonsignificant effects of prime, F(2, 92) ⫽ 1.88, ns. The mean
+numbers of thoughts in each cell appear in Figure 2 and supported
+a goal-mediation interpretation.
+As shown in Figure 2, in conditions in which the task could not
+have satisfied a prime-elicited goal, the pattern of effects replicated
+the earlier experiments. That is, action primes followed by an
+inactive task produced a greater number of thoughts about the text
+than did inaction primes followed by an active task (M ⫽ 6.94,
+SD ⫽ 3.46 vs. M ⫽ 3.36, SD ⫽ 0.81, respectively; p for contrast ⫽
+.001), and both differed significantly from the control conditions
+(for active task: M ⫽ 5.00, SD ⫽ 2.24; for inactive task: M ⫽ 4.17,
+SD ⫽ 2.04; p for contrasts ⫽ .02 in each case). This finding
+replicates the results from our prior experiments in which the goals
+
+Number o
+N
+of Though
+hts about Text
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Percent Choosing Problem Solving
+P
+du
+uring the Next 30 s
+
+GENERAL ACTION AND INACTION GOALS
+
+8
+7.5
+7
+6.5
+6
+
+Action prime
+Control prime
+Inaction prime
+
+5.5
+5
+4.5
+4
+3.5
+3
+Active task
+
+Inactive task
+
+Figure 2. Effects of primes and task introduced to produce conditions
+with and without goal satisfaction: Experiment 7.
+
+ALBARRACÍN ET AL.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+520
+
+presumably stimulated by the primes induced different levels of
+motor and cognitive output.
+Experiment 7 also provided evidence concerning the role of
+satisfaction. With respect to satisfying inaction goals, inaction
+primes followed by active tasks yielded a smaller number of
+thoughts than did inaction primes followed by inactive tasks (M ⫽
+3.36, SD ⫽ 0.81 vs. M ⫽ 6.50, SD ⫽ 2.80, respectively; p for
+contrast ⫽ .006). This mean difference implies that satisfying an
+inaction goal decreased its effect, resulting in higher levels of
+activity. A similar decrease of the effect of the primes was present
+for the satisfaction of action goals. Action primes followed by
+inactive tasks yielded a larger number of thoughts than did action
+primes followed by active tasks (M ⫽ 6.94, SD ⫽ 3.46 vs. M ⫽
+4.58, SD ⫽ 2.76, respectively; p for contrast ⫽ .02). Again, then,
+the expected decrease in the influence of the action goal following
+satisfaction was verified.
+It is also interesting to compare the outcomes of satisfied action
+goals with those of unsatisfied inaction goals and control primes,
+as well as those of satisfied inaction goals with those of unsatisfied
+action goals and control primes. Action primes followed by an
+active task (satisfied action goals: M ⫽ 4.58, SD ⫽ 2.76) still
+yielded a larger number of thoughts than did inaction primes
+followed by an active task (M ⫽ 3.36, SD ⫽ 0.81, p for contrast ⫽
+.05) and than did control conditions ( p for contrast ⫽ .02). This
+difference suggests that participants in satisfied action goals were
+still more active than were those with unsatisfied inaction goals. In
+contrast, satisfying an inaction goal led to a similar level of activity
+as not satisfying an action goal (M ⫽ 6.50, SD ⫽ 2.80 vs. M ⫽
+6.94, SD ⫽ 3.46, respectively; p for contrast ⫽ .72), and both of
+these conditions had higher means than the average of the control
+conditions did (M ⫽ 4.58, SD ⫽ 2.76, p for contrast ⫽ .001). This
+latter finding suggests that satisfying inaction goals produced
+effects similar to those of unsatisfied action goals.
+
+Discussion
+To summarize, we reasoned that the effect of action and inaction
+goals should decrease or cease if a satisfaction opportunity arises.
+Consistent with this possibility, action, control, and inaction
+primes had corresponding influences on the number of thoughts
+elicited during text reading when there could be no prior satisfaction of action or inaction goals. That is, unsatisfied action goals
+produced the highest number of thoughts, followed by control
+conditions and then by unsatisfied inaction goals. Critical to our
+analysis, however, the introduction of a prime-consistent task
+following the prime either reduced or eliminated the effects of the
+goals. This finding strongly supports the contention that the findings in Experiments 1–5 can be goal mediated.
+
+GENERAL DISCUSSION
+Although variations in overall activity are present in all species
+(Dumville et al., 2006; Roffwarg, Muzio, & Dement, 1966; Sears,
+2005; Tsiouris, 2005), in humans this regulation is unlikely to be
+left up to biology alone. Some existing data suggest historical
+increases in human activity levels that are likely due to social and
+cultural factors. In the last few decades, Americans have been
+sleeping less (National Sleep Foundation, 2005), obesity rates have
+doubled (Centers for Disease Control, 2005), and the average
+
+American-family debt (along with the associated consumerism)
+has crept up (Federal Reserve, 2005).
+To the best of our knowledge, the present article is the first to
+propose a mechanism that may underlie these types of trends.
+Specifically, we defined and tested the effects and operation of
+general action and inaction goals. These goals have an end state of
+either high or low motor and cognitive output, respectively, exert
+effects on motor and cognitive focal behaviors, and their effects
+decrease once the goals are satisfied. In the coming sections, we
+discuss the main findings and implications for future research.
+
+Present Findings
+The studies in this article are a first demonstration of the
+effects of general action and inaction goals in a relatively
+simple context: when available options entail activity versus
+rest (e.g., folding a piece of paper vs. resting) or more or less of
+the same behavior (e.g., learning more or less). Specifically, we
+activated goals with words that were broadly associated with
+action and inaction. These general goals then influenced responses that had no specific connection with the words that
+primed the goals. Sometimes these responses were trivial and
+not particularly conscientious, such as when participants folded
+a piece of paper (Experiment 1). Other times, these behaviors
+were important and conscientious, such as when participants
+solved intellectual problems (Experiments 4 and 5).
+In preparation for Experiment 1, we used a lexical decision task
+to examine corresponding concept activation and ruled out mood
+effects. Furthermore, the presence of goals as an underlying mechanism was examined by assessing two types of effects that cannot
+derive from mere conceptual priming. First, as goals drive behavior with a particular outcome in mind, individuals with action and
+inaction goals should choose options that allow them to be maximally or minimally active, even when the immediate behavioral
+means to this outcome is not. Specifically, participants were asked
+to choose between a brief activity followed by a longer inactivity
+or a brief inactivity followed by a longer activity. Findings indicated that participants primed with action chose the brief inactive
+period followed by the longer active behavior, whereas those
+primed with inaction chose the brief active period followed by the
+longer inactive behavior. Thus, although control participants who
+were asked to choose between two immediate behaviors chose
+behaviors that were consistent with the prime, in the more complex
+choice situations, participants were sensitive to the overall outcome. This finding cannot be explained by the mere activation of
+a concept.
+In addition, in line with past research on the cognitive and
+motivational properties of goals (see Chartrand & Bargh, 2002;
+Förster et al., 2005; Kruglanski et al., 2002), we found that the
+effects of priming action and inaction decreased when a goalsatisfying task was executed. Specifically, action and inaction
+primes produced, respectively, larger and smaller numbers of
+thoughts in response to a written text. However, the effect of action
+primes decreased when participants were asked to doodle before
+processing the written text, and the effect of inaction primes was
+reversed when participants were asked to rest before processing
+the text. This pattern may result from a Zeigarnik (1967) type of
+effect (see Förster et al., 2005). That is, rather than merely pro-
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+GENERAL ACTION AND INACTION GOALS
+
+ducing deactivation of goals, satisfaction of the inaction goal
+produced a clear push towards action.
+The finding that the effects of both action and inaction primes
+are sensitive to both potential outcomes and satisfaction is important for reasons other than ruling out conceptual priming. At first
+sight, the effects of action/inaction priming might be construed as
+an influencing motivation, with action primes producing high
+motivation and inaction primes producing low motivation. If this
+hypothesis were plausible, one should observe goal mediation only
+for action-prime conditions, presumably the ones in which motivation would be strong. However, the results from Experiments 6
+and 7 highlight that both action and inaction primes produced
+commitment of resources to achieve an end even when the ends
+differed. That is, both action and inaction goals entail comparable
+motivation, although the end state individuals are motivated to
+achieve varies.
+
+Future Directions
+This work has several implications for future research. Some
+implications concern the effects of action and inaction goals when
+there is more than one focal behavior that can satisfy the same
+general goal. Other directions include studying cross-cultural and
+individual differences in these general goals.
+
+Selecting Different Viable Behaviors to Satisfy Action and
+Inaction Goals
+Future research should address the effects of general action and
+inaction goals when people enact or consider enacting more than
+one specific behavior. For example, individuals may intend to both
+cook a meal and check their children’s homework, or to exercise,
+watch television, and eat. In this case, the selection of a specific
+means to goal satisfaction should depend on the perceived ease and
+desirability of each behavior (Ajzen & Fishbein, 2005). Action
+goals may prompt selection of active behaviors but which active
+behavior to choose should depend on other factors (e.g., salience,
+desirability, and the operation and strength of additional goals).
+Similar considerations arise with respect to well-learned, dominant behaviors as opposed to new behaviors. If only a new
+behavior is focal, action goals should facilitate learning that behavior. However, action (vs. inaction) goals may also facilitate the
+application of a previously learned routine when such routines are
+available. Importantly, dominant responses may emerge when
+impulsive individuals are primed with action, even when these
+responses are prone to error. Furthermore, by activating dominant
+responses, action (vs. inaction) goals may sometimes reduce learning of new procedures. In any event, the conditions under which
+action and inaction goals trigger stability and change in behavior
+deserve research attention in the future.
+The effects of action and inaction goals on attitude change and
+personality expression may also be analyzed in the future. For
+example, various forms of processing related to persuasive communications may be respectively enhanced and reduced by action
+and inaction goals. In addition, action and inaction goals may
+influence the expression of personality tendencies in a variety of
+contexts. For instance, activating a general action goal may increase promotion and prevention strategies (see Higgins, 1997)
+among chronically high-promotion and high-prevention people.
+
+521
+
+As another example, action goals may trigger different behavioral
+choices for high-locomotion and high-assessment individuals
+(Kruglanski et al., 2000), such that locomotors may choose motor
+activities and assessors may choose cognitive activities. Similarly,
+chronic behavioral activation and inhibition (Carver & White,
+1994) and action/state orientation (Kuhl, 1985) may determine
+whether effective planning or rumination predominate in response
+to action goals.
+
+Relations to Brain Responses
+General action and inaction both depend on activation and
+inhibition at the neural level (J. L. McClelland & Rumelhardt,
+1986). Depending on what focal behavior is used to pursue an
+action goal, the goal may require inhibition, release of inhibition,
+or activation. One may need to inhibit perceptual functions for
+executive control processes to operate and release inhibition of
+motor behavior to satisfy general action goals by means of movement. By the same token, inaction may require inhibition of
+movement or activation of mental strategies (e.g., counting sheep)
+that promote inaction before a state of inaction is attained. In any
+case, the excitatory and inhibitory outcomes of action and inaction
+concepts may deserve attention in the future.
+
+Action Versus Perception
+One interesting aspect of Experiment 3 is that action and inaction primes may have modulated not only motor output but also
+perception of the videotaped behavior. For example, participants
+may have become more sensitive to the behaviors of the target
+person without any active attempt to segment these behaviors or
+indicate this segmentation by pressing the computer space bar. In
+the future, general action and perception could be primed to see if
+the same or different effects emerge. As perception and action are
+linked at the neurofunctional level (see Rizzolatti, Fogassi, &
+Gallese, 2001), priming perception and action may both increase
+perception, mimicry, and adoption of the goals of others (for a
+review of these phenomena, see Dijksterhuis, Chartrand, & Aarts,
+2007). Future research should examine these possibilities.
+
+Achievement and Flexibility Priming
+Establishing that general action and inaction goals can be activated in the laboratory raises the question of whether these goals
+have been activated in prior studies. For example, priming
+achievement and flexibility has demonstrated effects on a variety
+of tasks (see Bargh et al., 2001; Hassin, 2007; Levesque & Pellitier, 2003), raising the possibility that more general action tendencies were involved. The extent to which general action goals are at
+stake in these situations could be established through future systematic research. For example, instead of using a single behavior
+as the outcome measure, the effects of achievement might be
+established as high engagement in achievement-relevant behaviors
+but low engagement in achievement-irrelevant behaviors. More
+generally, however, the prior effects of achievement and flexibility
+represent instances of general behavioral effects akin to the ones
+demonstrated in this article.
+
+ALBARRACÍN ET AL.
+
+522
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Cross-Cultural, Cross-Temporal, and Cross-Individual
+Variability in Action and Inaction Goals
+Some people are active to the point of having manic episodes,
+whereas others lack interest in initiating activities (American Psychiatric Association, 2005). The observed effects of general action
+and inaction primes model these natural variations in general
+levels of activity.
+If general action and inaction goals can yield patterns comparable to natural variations in overall activity levels, these goals
+may underlie behavioral differences in the real world. For instance,
+mania and impulsivity may correlate positively with favorable
+attitudes about and goals of general action. These same manifestations may correlate negatively with favorable attitudes about and
+goals of general inaction. Correspondingly, depression may correlate negatively with favorable attitudes about and goals of general
+action but positively with favorable attitudes about and goals of
+general inaction. In the future, these associations could be examined across individuals, regions within countries, and regions
+around the globe.
+General action and inaction goals may also be linked to structural factors and long-standing beliefs in a community. As one
+example, the generation of excess capital in the Modern Era (in
+Europe: years 1453–1789) may have facilitated activities that were
+previously impossible. An increase in the sheer number of activities may have led to inferences that activity is desirable irrespective of the activity. As another example, Buddhist beliefs imply
+that life is inherently imperfect and that attempts to improve it
+backfire. As a result, these beliefs may stimulate general goals of
+inaction. If these hypotheses are plausible, across nations, a low
+gross national product and a Buddhist religion may result in more
+sleep, less illegal drug use, reduced caffeine consumption, and
+greater incidence of depression. Future archival analyses may
+examine these predictions.
+
+Closing Note
+This research is the first to induce general action and inaction
+goals to control behaviors without controlling the specific quality
+of those behaviors. Because these aspects are essential for effective
+regulation of individual and social systems, our findings have the
+potential to illuminate a significant range of human experiences.
+We hope that these data, which are the beginning of this line of
+research, will stimulate exciting directions in the future.
+
+References
+Ajzen, I., & Fishbein, M. (2005). The influence of attitudes on behavior. In
+D. Albarracı́n, B. T. Johnson, & M. P. Zanna (Eds.), The handbook of
+attitudes (pp. 173–221). Mahwah, NJ: Erlbaum.
+American Psychiatric Association. (2005). Diagnostic and statistical manual of mental disorders (4th ed., text revision). Washington, DC: Author.
+Anderson, M. (1992). Intelligence and development: A cognitive theory.
+Oxford, England: Blackwell.
+Atkinson, J. W., & Birch, D. (1970). The dynamics of action. Oxford,
+England: Wiley.
+The Avalon Project. (2007). Foreign relations of the United States: 1961–
+1963. Cuban missile crisis and aftermath. Retrieved August 1, 2007,
+from http://www.yale.edu/lawweb/avalon/diplomacy/forrel/cuba/
+cubamenu.htm
+
+Bandura, A. (1989). Self-regulation of motivation and action through
+internal standards and goal systems. In L. A. Pervin (Ed.), Goal
+concepts in personality and social psychology (pp. 19 – 86). Hillsdale,
+NJ: Erlbaum.
+Bargh, J. A. (1990). Auto-motives: Preconscious determinants of social
+interaction. In E. T. Higgins & R. M. Sorrentino (Eds.), Handbook of
+motivation and cognition (pp. 93–130). New York: Guilford.
+Bargh, J. A., & Chartrand, T. L. (1999). The unbearable automaticity of
+being. American Psychologist, 54, 462– 479.
+Bargh, J. A., & Chartrand, T. L. (2000). The mind in the middle: A
+practical guide to priming and automaticity research. In H. T. Reis &
+C. M. Judd (Eds.), Handbook of research methods in social and personality psychology (pp. 253–285). New York: Cambridge University
+Press.
+Bargh, J. A., Gollwitzer, P. M., Lee-Chai, A., Barndollar, K., & Trötschel,
+R. (2001). The automated will: Nonconscious activation and pursuit of
+behavioral goals. Journal of Personality and Social Psychology, 81,
+1014 –1027.
+Barratt, E. S. (1985). Impulsiveness defined within a systems model of
+personality. In E. O. Speilgurger & J. N. Butcher (Eds.), Advances in
+personality assessment (pp. 113–132). Hillsdale, NJ: Erlbaum.
+Baum, A. E., Hamshere, M., Green, E., Cichon, S., Rietschel, M., Noethen,
+M. M., et al. (2008). Meta-analysis of two genome-wide association
+studies of bipolar disorder reveals important points of agreement. Molecular Psychiatry, 13, 466 – 467.
+Carver, C. S., & White, T. L. (1994). Behavioral inhibition, behavioral
+activation, and affective responses to impending reward and punishment:
+The BIS/BAS scales. Journal of Personality and Social Psychology, 67,
+319 –333.
+Centers for Disease Control. (2005). Prevalence of overweight among
+children and adolescents: United States, 2003–2004. Retrieved September 1, 2005, from http://www.cdc.gov/nchs/products/pubs/pubd/hestats/
+overweight/overwght_child_03.htm
+Chartrand, T. L., & Bargh, J. A. (2002). Nonconscious motivations: Their
+activation, operation, and consequences. In A. Tesser, D. A. Stapel, & J. V.
+Wood (Eds.), Self and motivation: Emerging psychological perspectives
+(pp. 13– 41). Washington, DC: American Psychological Association.
+Dijksterhuis, A., Chartrand, T. L., & Aarts, H. (2007). Effects of priming
+and perception on social behavior and goal pursuit. In J. Bargh (Ed.),
+Social psychology and the unconscious: The automaticity of higher
+mental processes. Frontiers of social psychology (pp. 51–131). New
+York: Psychology Press.
+Dumville, J. C., Miles, J. N. V., Porthouse, J., Cockayne, S., Saxon, L., &
+King, C. (2006). Can vitamin D supplementation prevent winter-time
+blues? A randomised trial among older women. Journal of Nutrition,
+Health & Aging, 10, 151–153.
+Federal Reserve. (2005). Statistical release G19. Retrieved September 1,
+2005, from http://federalreserve.gov/releases/g19/
+Ferguson, M. J., & Bargh, J. A. (2004). Liking is for doing: The effects of
+goal pursuit on automatic evaluation. Journal of Personality and Social
+Psychology, 87, 557–572.
+Fishbein, M., & Ajzen, I. (1975). Belief attitude, intention and behavior.
+Reading, MA: Addison-Wesley.
+Fiske, S. T., & Taylor, S. E. (1991). Social cognition (2nd ed.). New York:
+McGraw-Hill.
+Förster, J., Liberman, N., & Higgins, E. T. (2005). Accessibility from
+active and fulfilled goals. Journal of Experimental Social Psychology,
+41, 220 –239.
+Handley, I. M., & Lassiter, G. D. (2002). Mood and information processing: When happy and sad look the same. Motivation and Emotion, 26,
+223–255.
+Hassin, R. (2007). Nonconscious control and working memory. In J. Bargh
+(Ed.), Social psychology and the unconscious: The automaticity of
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+GENERAL ACTION AND INACTION GOALS
+higher mental processes. Frontiers of social psychology (pp. 196 –222).
+New York: Psychology Press.
+Hauk, O., Johnsrude, I., & Pulvermuller, F. (2004). Somatotopic representation of action words in human motor and premotor cortex. Neuron, 41,
+301–307.
+Heekeren, H. R., Marrett, S., Ruff, D. A., Bandettini, P. A., & Ungerleider,
+L. G. (2006). Involvement of human left dorsolateral prefrontal cortex in
+perceptual decision making is independent of response modality. Proceedings of the National Academy of Sciences, USA, 103, 10023–10028.
+Higgins, E. T. (1997). Beyond pleasure and pain. American Psychologist,
+52, 1280 –1300.
+Kawada, C. L. K., Oettingen, G., Gollwitzer, P. M., & Bargh, J. A. (2004).
+The projection of implicit and explicit goals. Journal of Personality and
+Social Psychology, 86, 545–559.
+Kiss, G. R., Armstrong, C., Milroy, R., & Piper, J. (1973). An associative
+thesaurus of English and its computer analysis. In A. J. Aitken, R. W.
+Bailey, & N. Hamilton-Smith (Eds.), The computer and literary studies
+(pp. 153–165). Edinburgh, Scotland: University Press.
+Kruglanski, A. W., Shah, J. Y., Fishbach, A., Friedman, R., Chun, W. Y.,
+& Sleeth-Keppler, D. (2002). A theory of goal systems. In M. P. Zanna
+(Ed.), Advances in experimental social psychology (Vol. 43, pp. 331–
+378). San Diego, CA: Academic Press.
+Kruglanski, A. W., Thompson, E. P., Higgins, E. T., Atash, M. N., Pierro,
+A., Shah, J. Y., & Spiegel, S. (2000). To do the right thing! or to just do
+it!: Locomotion and assessment as distinct self-regulatory imperatives.
+Journal of Personality and Social Psychology, 79, 793– 815.
+Kuhl, J. (1985). Volitional mediators of cognition-behavior consistency:
+Self-regulatory processes and action and state orientation. In J. Kuhl &
+J. Beckmann (Eds.), Action control: From cognition to behavior (pp.
+101–128). New York: Springer-Verlag.
+Lassiter, G. D., Briggs, M. A., & Bowman, R. E. (1991). Need for
+cognition and the perception of ongoing behavior. Personality and
+Social Psychology Bulletin, 17, 156 –160.
+Lassiter, G. D., Geers, A. L., & Apple, K. J. (2002). Communication set
+and the perception of ongoing behavior. Personality and Social Psychology Bulletin, 28, 158 –171.
+Lassiter, G. D., Stone, J. I., & Rogers, S. L. (1988). Memorial consequences of variation in behavior perception. Journal of Experimental
+Social Psychology, 24, 222–239.
+Lawrence, M., Thongprasert, K., & Durnin, J. V. (1988). Between-group
+differences in basal metabolic rates: An analysis of data collected in
+Scotland, the Gambia and Thailand. European Journal of Clinical Nutrition, 42, 877– 891.
+Levesque, C. S., & Pellitier, L. G. (2003). On the investigation of primed
+and chronic autonomous and heteronomous motivational orientations.
+Personality and Social Psychology Bulletin, 29, 1570 –1584.
+Lewin, K. (1935). A dynamic theory of personality. New York: McGraw-Hill.
+Marsh, R. L., Hicks, J. L., & Bink, M. L. (1998). Activation of completed,
+uncompleted, and partially completed intentions. Journal of Experimental Psychology: Learning, Memory, and Cognition, 24, 350 –361.
+McClelland, D. C., Atkinson, J. W., Clark, R. A., & Lowell, E. L. (1953).
+The achievement motive. New York: Appleton-Century-Crofts.
+
+523
+
+McClelland, J. L., & Rumelhardt, D. E. (1986). Parallel distributed processing: Explorations in the micro-structure of cognition (Vols. 1 & 2).
+Cambridge, MA: MIT Press.
+Moskowitz, G. B., Li, P., & Kirk, E. R. (2004). The implicit volition
+model: On the preconscious regulation of temporarily adopted goals. In
+M. P. Zanna (Ed.), Advances in experimental social psychology (Vol. 34,
+pp. 317– 414). San Diego, CA: Academic Press.
+National Sleep Foundation. (2005). 2005 sleep in America poll. Retrieved
+June 10, 2007, from http://www.sleep-solutions.com/phys/education/
+NSF_2005_Sleep_in_America_Poll_Results.htm
+Pervin, L. A. (1983). The stasis and flow of behavior: Toward a theory of
+goals. In M. M. Page (Ed.), Personality: Current theory and research.
+Nebraska symposium on motivation (Vol. 30, pp. 1–53). Lincoln, NE:
+University of Nebraska Press.
+Pinkerton, S. (1997). How the mind works. New York: Norton.
+Powers, W. T. (1973). Behavior: The control of perception. Chicago:
+Aldine.
+Powers, W. T. (1978). Quantitative analysis of purposive systems: Some
+spadework at the foundations of scientific psychology. Psychological
+Review, 85, 417– 435.
+Ratcliff, J. J., Lassiter, G. D., Markman, K. D., Patterson, S. M., Dauster,
+S., Munhall, P. J., et al. (2004). Prejudice alters the observation of
+ongoing behavior. Unpublished manuscript, Ohio University, Athens.
+Rizzolatti, G., Fogassi, L., & Gallese, V. (2001). Neuropsychological
+mechanisms underlying the understanding and imitation of action. Nature Reviews Neuroscience, 2, 661– 670.
+Roese, N. J., Hur, T., & Pennington, G. L. (1999). Counterfactual thinking
+and regulatory focus: Implications for action versus inaction and sufficiency versus necessity. Journal of Personality and Social Psychology,
+77, 1109 –1120.
+Roffwarg, H. P., Muzio, J. N., & Dement, W. C. (1966, April 29).
+Ontogenetic development of the human sleep-dream cycle. Science, 152,
+604 – 619.
+Sears, M. W. (2005). Resting metabolic expenditure as a potential source
+of variation in growth rates of the sagebrush lizard. Comparative Biochemistry & Physiology Part A: Molecular & Integrative Physiology,
+140, 171–177.
+Tsiouris, J. A. (2005). Metabolic depression in hibernation and major
+depression: An explanatory theory and an animal model of depression.
+Medical Hypotheses, 65, 829 – 840.
+Wright, R. A., & Brehm, J. W. (1989). Energization and goal attractiveness. In L. A. Pervin (Ed.), Goal concepts in personality and social
+psychology (pp. 169 –210). Hillsdale, NJ: Erlbaum.
+Zeigarnik, B. (1967). On finished and unfinished tasks. In W. D. Ellis
+(Ed.), A sourcebook of gestalt psychology (pp. 300 –304). New York:
+Humanities Press.
+
+Received March 19, 2006
+Revision received December 7, 2007
+Accepted December 11, 2007 䡲
+
+

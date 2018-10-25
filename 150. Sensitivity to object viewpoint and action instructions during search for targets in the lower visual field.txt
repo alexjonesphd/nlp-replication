@@ -1,0 +1,484 @@
+P SY CH OL OG I C AL S CIE N CE
+
+Research Article
+
+Sensitivity to Object Viewpoint
+and Action Instructions During
+Search for Targets in the Lower
+Visual Field
+Sara Forti1,2 and Glyn W. Humphreys1
+1
+
+Behavioural Brain Sciences Centre, School of Psychology, University of Birmingham, and 2Neuropsychology Unit,
+IRCCS ‘‘Eugenio Medea,’’ Bosisio Parini, Italy
+
+ABSTRACT—We
+
+contrasted visual search for targets presented in prototypical views and targets presented in nonprototypical views, when targets were deﬁned by their
+names and when they were deﬁned by the action that would
+normally be performed on them. The likelihood of the ﬁrst
+ﬁxation falling on the target was increased for prototypicalview targets falling in the lower visual ﬁeld. When targets
+were deﬁned by actions, the durations of ﬁxations were
+reduced for targets in the lower ﬁeld. The results are
+consistent with eye movements in search being affected by
+representations within the dorsal visual stream, where
+there is strong representation of the lower visual ﬁeld.
+These representations are sensitive to the familiarity or the
+affordance offered by objects in prototypical views, and
+they are inﬂuenced by action-based templates for targets.
+In visual search tasks, participants are typically asked to detect
+particular targets presented among varying numbers of distractors. How the target is deﬁned appears to affect the nature of
+the search process. Humphreys and Riddoch (2001) reported data
+from a patient with unilateral visual neglect, who frequently failed
+to detect targets on the side of space contralateral to his lesion
+when targets were deﬁned by their names. However, this neglect
+was strikingly reduced when the patient was asked to ﬁnd targets
+that were deﬁned by the action that would be performed on them
+(e.g., ‘‘ﬁnd the object to drink from’’ vs. ‘‘ﬁnd the cup’’). To account
+Address correspondence to Glyn W. Humphreys, Behavioural Brain
+Sciences Centre, School of Psychology, University of Birmingham,
+Birmingham B15 2TT, United Kingdom, e-mail: g.w.humphreys@
+bham.ac.uk.
+
+42
+
+for these ﬁndings, the authors suggested that the patient was able
+to match input with a template based on the action, but was unable
+to match input with a template derived from the name of the object. This was true even though the patient knew what each object
+was from its name, and even though he showed normal identiﬁcation of single objects. The patient may have been able to maintain the action template better than any visual template derived
+from the object’s name, so that an action template helped him
+sustain search on the affected side; alternatively, the patient may
+have been able to respond to affordances that were computed independently of an object’s identity and that were detectable from
+objects on both the ipsi- and contralesional sides of space.
+A study by Bekkering and Neggers (2002) provides converging evidence from normal observers. In this study, participants
+either pointed to or grasped a target deﬁned by a conjunction of
+its orientation and color. Saccades to distractors having the same
+orientation as the target were more likely when a grasping response was made than when a pointing response was made. This
+suggests that contrasting actions can differentially weight visual
+information, with orientation being weighted more strongly for
+selection when a grasping rather than a pointing response is required (see also Hannus, Cornelissen, Lindemann, & Bekkering,
+2005). These data are consistent with models in which search can
+be guided in a top-down fashion by templates deﬁned by the
+target or the action to be made with the target (cf. Duncan &
+Humphreys, 1989; Moores, Laiti, & Chelazzi, 2003; Wolfe, 1994).
+Apparently, holding a template for a particular action and holding
+a template based on a visual deﬁnition of an object can shape the
+search process differently.
+In the study reported in this article, we sought to examine
+further the contrast between searching for a target deﬁned by an
+
+Copyright
+r 2008 Association
+for Psychological
+Science
+Downloaded
+from pss.sagepub.com
+at UNIV OF CONNECTICUT
+on April
+12, 2015
+
+Volume 19—Number 1
+
+Sara Forti and Glyn W. Humphreys
+
+action and searching for a target deﬁned by its name. We measured eye movements while normal participants searched for
+named-deﬁned and action-deﬁned targets. Performance was analyzed separately for trials with targets in the upper visual ﬁeld
+and trials with targets in the lower visual ﬁeld. The dorsal area of
+V1 represents the lower visual ﬁeld and projects primarily to the
+dorsal visual pathway, whereas the ventral area of V1 represents
+the upper visual ﬁeld and projects primarily to the ventral visual
+pathway (Horton & Hoyt, 1991; Previc, 1990). Thus, there are
+stronger projections from the lower visual ﬁeld than from the
+upper visual ﬁeld into posterior parietal cortex (e.g., area V6A;
+Galletti, Fattori, Gamberini, & Kutz, 1999). It is possible that
+searching by action and searching by name differentially recruit
+the dorsal and ventral visual pathways to support performance.
+Milner and Goodale (1993), for example, argued that the ventral
+pathway is functionally specialized for object recognition (the
+‘‘what’’ pathway) and the dorsal pathway is functionally specialized for the actions linked to objects (the ‘‘how’’ pathway; see also
+Creem & Profﬁtt, 2001). It may follow that searching by action,
+recruiting the dorsal visual stream, favors information in the lower
+visual ﬁeld. In addition, Previc (1990) argued that because
+the lower visual ﬁeld represents near space, neural regions responding to this area are specialized for the analysis of features
+relevant to actions with objects in near space. In contrast,
+searching for an object deﬁned by its name may favor information
+in the upper visual ﬁeld, which may be more specialized for distal
+properties of objects tied to their identity (cf. Previc, 1990).
+In addition to examining the effects of instruction, we evaluated search for targets in prototypical relative to nonprototypical
+views. Though the time needed to recognize objects and to derive action-related information about objects should be less for
+stimuli in prototypical views than for stimuli in nonprototypical
+views (e.g., Palmer, Rosch, & Chase, 1981), this effect may be
+most pronounced for action decisions and for neural regions
+responsive to action affordances from objects. For example, in
+Humphreys and Riddoch’s (2001) study of neglect, the beneﬁts
+for searching by action occurred when objects appeared in
+prototypical views for action. Similarly, Yoon and Humphreys
+(2007) reported that compared with semantic decisions made in response to objects, action decisions are more sensitive to viewpoint. Accordingly, dorsal regions, which are sensitive to action,
+might be particularly affected by viewpoint.
+
+monitor (17 in.), using a screen resolution of 600  800 pixels.
+The display height was adjusted for each participant by setting
+the height of the chair he or she sat on. Eye movements were
+recorded using a head-mounted eyetracker (SMI Eyelink V2.04;
+SensoMotoric Instruments GmbH, Berlin, Germany) with a sampling rate of 250 Hz. Responses were registered using a button
+box.
+
+Procedure
+The display sequence is depicted in Figure 1a. Each trial started
+with a black ﬁxation point, shown against a white background
+screen. The duration of this display was unlimited. When ready,
+the participant pressed a button to remove the ﬁxation point, and
+the instructions regarding what to search for were displayed for
+2,000 ms (black text on a white background). A second ﬁxation
+point (600 ms) preceded the stimulus display, which remained
+present until the participant responded. Participants were instructed to look for and to ﬁxate the target; once they were sure
+they had found the target, they were to press a button to end the
+trial. The speed of the button-press response was not emphasized. The target was present in all trials. Presentation of stimuli
+was self-paced, and subjects were allowed to take an unlimited
+number of breaks.
+The stimuli were black-and-white photographs of real objects
+(see Fig. 1b). On any trial, all the stimuli were depicted in either
+a prototypical or a nonprototypical view (view was randomized
+across trials). When an object was depicted in a prototypical
+view, all its main features were visible, and the object was
+aligned for action. In the nonprototypical view, the object was
+rotated away from its usual view, and it was not oriented for a
+right-hand action; typically, the graspable part of the object was
+positioned toward the nondominant (left) hand (for our righthanded participants).
+
+METHOD
+
+Participants
+The 14 participants (11 females and 3 males; ages 17–39 years,
+M 5 25.7) were all right-handed and had either normal or corrected-to-normal vision.
+Apparatus
+The experiment was controlled by a 1.5-GHz Pentium IV computer. Stimuli were presented on a Trinitron Multiscan G240
+
+Volume 19—Number 1
+
+Fig. 1. Illustration of the display sequence (a) and of an object in its
+prototypical and nonprototypical views (b). The example sequence shown
+here is from the name condition.
+
+Downloaded from pss.sagepub.com at UNIV OF CONNECTICUT on April 12, 2015
+
+43
+
+Object Viewpoint, Visual Field, and Action Instructions During Search
+
+Each photograph was inscribed into an area measuring 100 
+100 pixels (4.61  4.61 at a viewing distance of 60 cm), and the
+relative size of the objects was taken into account (e.g., a bicycle
+was bigger than a pen). Within each display, eight stimuli were
+presented in a circle with a radius of 170 pixels (7.41); the two
+middle objects were placed at eye level, in order to have the
+three upper objects falling in the upper visual ﬁeld and the
+three lower objects falling in the lower visual ﬁeld. The target’s
+position was randomized across trials. In the analyses, we excluded trials in which the target was one of the two middle objects, considering only stimuli in the upper and lower visual
+ﬁelds.
+There were two instruction conditions, presented in two separate blocks of 240 trials each, and block order was randomized
+across participants. In the name condition, the participants were
+given the names of the objects they had to look at (e.g., ‘‘scissors’’); in the action condition, each target was deﬁned by the
+associated action (e.g., ‘‘cut paper’’). Thus, the target was ambiguously speciﬁed in the action condition, because there are
+typically multiple objects consistent with a given action. However, within a search display, there was only one object consistent with the instructions given (i.e., only one object with the
+name given in name search and only one object consistent with
+the action given in action search). We used a set of 60 familiar
+objects; 20 that could be deﬁned either by a name or by a speciﬁc
+action were used as targets, and the remaining 40 were always
+used as distractors.
+RESULTS
+
+We considered the effects of three variables: the instructions
+(search by name vs. search by action), the viewpoint (prototypical vs. nonprototypical), and the target’s visual ﬁeld (upper
+vs. lower).1 The data were analyzed in three-way repeated
+measures analyses of variance. Including only correct trials (i.e.,
+those on which the target was eventually ﬁxated), we measured
+(a) the probability that the ﬁrst ﬁxation was on the target, (b) the
+time taken until the ﬁrst ﬁxation on the target, (c) the duration of
+the ﬁrst ﬁxation on the target, (d) the total number of ﬁxations on
+the target, and (e) the total length of ﬁxations on the target
+(summed across different ﬁxations in a trial).
+Probability of the First Fixation Being on the Target
+The probability of the ﬁrst ﬁxation being on the target showed a
+signiﬁcant effect of viewpoint, F(1, 13) 5 50.3, prep > .99:
+Prototypical-view targets received more ﬁrst ﬁxations (M 5
+12.2%) than nonprototypical-view targets (M 5 5.3%). There
+1
+
+We also examined effects of whether items fell in the left or right visual ﬁeld,
+because some studies indicate differences between the upper and lower visual
+ﬁelds on either only the left side (Niebauer & Christman, 1998) or only the right
+side (Handy, Grafton, Shroff, Ketay, & Gazzaniga, 2003), depending on the task.
+However, we failed to ﬁnd effects of left versus right ﬁeld. Hence, the data are
+averaged across this factor.
+
+44
+
+was also a signiﬁcant main effect of the target’s visual ﬁeld, F(1,
+13) 5 22.6, prep > .99, with targets in the lower visual ﬁeld
+receiving more ﬁrst ﬁxations (M 5 12.2%) than targets in the
+upper visual ﬁeld (M 5 5.3%). These two factors interacted, F(1,
+13) 5 14.2, prep > .99: The effect of visual ﬁeld was enhanced for
+objects depicted in a prototypical orientation, though visual
+ﬁeld was signiﬁcant for both views. There was no main effect of
+instructions, F(1, 13) 5 1.2, prep 5 .64, and no interactions
+involving this factor were signiﬁcant (all Fs < .0). The results
+for this dependent measure are depicted in the top panel of
+Figure 2.
+Time Until the First Fixation on the Target
+This measure showed no reliable effects (see Fig. 2, bottom
+panel).
+Duration of the First Fixation on the Target
+The duration of the ﬁrst ﬁxation on the target showed a reliable
+main effect of viewpoint, with longer ﬁxations to nonprototypical
+than to prototypical targets, F(1, 13) 5 10.33, prep 5 .852, but no
+effects of instructions or the target’s visual ﬁeld, F(1, 13) 5 2.46
+and F < 1.0, both preps < .88. There was an interaction between
+the type of instruction and the target’s visual ﬁeld, F(1, 13) 5
+10.926, prep 5 .86. In the action condition, ﬁrst-ﬁxation durations
+were shorter for targets in the lower visual ﬁeld than for targets in
+the upper visual ﬁeld, t(13) 5 2.1, prep 5 .88. In the name condition, the durations of the ﬁrst ﬁxation on the target were, if
+anything, shorter for targets in the upper than for those in the
+lower visual ﬁeld, t(13) 5 1.8, prep 5 .82. We also found a reliable
+interaction between instructions and viewpoint, F(1, 13) 5 17.88,
+prep > .99: First ﬁxations to targets in prototypical viewers were
+shorter than ﬁrst ﬁxations to targets in nonprototypical views in
+the action condition, t(13) 5 3.8, prep 5 .98, but not in the name
+condition, t(13) 5 1.4, prep 5 .74. Finally, there was a reliable
+three-way interaction among instructions, viewpoint, and visual
+ﬁeld, F(1, 13) 5 6.44, prep 5 .92 (see Fig. 3, top panel). The
+effects of viewpoint were pronounced only in the action condition
+for targets in the upper ﬁeld, t(13) 5 3.8, prep 5 .98.
+Number of Fixations on the Target
+The number of ﬁxations on the target (prior to responding to
+ﬁnding the target) showed a reliable main effect of viewpoint,
+F(1, 13) 5 6.23, prep 5 .91; there were more ﬁxations on nonprototypical-view than on prototypical-view targets. The effect
+of instructions was not reliable, F(1, 13) 5 1.06, prep 5 .63,
+though the main effect of the target’s visual ﬁeld approached
+signiﬁcance, F(1, 13) 5 3.81, prep 5 .85. There was an interaction between instructions and visual ﬁeld, F(1, 13) 5 5.98,
+prep 5 .91. In the action condition, fewer ﬁxations were made to
+targets in the lower visual ﬁeld than to targets in the upper visual
+ﬁeld, t(13) 5 3.0, prep 5 .95; in the name condition, there was no
+
+Downloaded from pss.sagepub.com at UNIV OF CONNECTICUT on April 12, 2015
+
+Volume 19—Number 1
+
+Sara Forti and Glyn W. Humphreys
+
+Fig. 2. Probability of the ﬁrst ﬁxation falling on the target (top panel) and
+mean time taken before ﬁrst ﬁxations to targets (bottom panel), as a function of
+viewpoint, visual ﬁeld, and instructions (search by name vs. action).
+
+effect of visual ﬁeld, t(13) 5 0.3, prep 5 .29. These effects held
+across both prototypical and nonprototypical views, F(1, 13) < 1.0
+for the interaction of instructions, viewpoint, and visual ﬁeld.
+The bottom panel in Figure 3 presents the mean numbers of
+ﬁxations on targets.
+Total Length of Fixations on the Target
+This measure showed a main effect of viewpoint, F(1, 13) 5
+7.50, prep 5 .93, with total ﬁxation time being longer for nonprototypical than for prototypical objects; the main effect of
+instructions was not reliable (F < 1.0), but that of ﬁeld approached signiﬁcance, F(1, 13) 5 4.00, prep 5 .85. There was
+one reliable interaction, between instructions and visual ﬁeld,
+F(1, 13) 5 5.18, prep > .89. In the action condition, ﬁxation
+durations were shorter for targets in the lower visual ﬁeld than
+for targets in the upper visual ﬁeld, t(13) 5 2.7, prep 5 .93; in the
+name condition, there was no effect of visual ﬁeld, t(13) 5 0.3,
+prep 5 .33. The data are shown in the middle panel of Figure 3.
+DISCUSSION
+
+Search varied as a function of the orientation of the stimuli and
+the instructions given for the search task. We discuss each effect
+in turn. Generally, we found an effect of orientation in four of the
+ﬁve eye movement parameters measured, with performance
+being facilitated for stimuli depicted in a prototypical view.
+
+Volume 19—Number 1
+
+Thus, compared with nonprototypical-view targets, prototypical-view targets were more likely to receive ﬁrst ﬁxations, had
+shorter total ﬁxation durations, and required fewer ﬁxations
+before the detection response was initiated. These effects of viewpoint are consistent with the literature on object recognition and
+on action decisions in response to objects, which shows that the
+familiarity of view is a strong determiner of performance (Palmer
+et al., 1981; Yoon & Humphreys, 2007). Interestingly, though,
+viewpoint interacted with visual ﬁeld when the probability of
+making a ﬁrst ﬁxation to a target and the duration of the ﬁrst
+ﬁxation to the target were measured. The increased probability
+of making a ﬁrst ﬁxation to a prototypical-view target was more
+pronounced when the target was in the lower visual ﬁeld than
+when it was in the upper visual ﬁeld.
+The instruction manipulation inﬂuenced several other eye
+movement parameters. Speciﬁcally, the action instructions facilitated performance as measured by parameters reﬂecting eye
+movements after targets had been ﬁxated (Fig. 3). These effects
+were conﬁned to targets falling in the lower visual ﬁeld. The
+duration of the ﬁrst ﬁxation made to the target, the number of
+ﬁxations made to the target before the detection response was
+made, and the average total length of the ﬁxations on the target
+were all selectively reduced for targets in the lower visual
+ﬁeld in the action condition. When objects were cued by their
+names, these effects of ﬁeld were absent (if anything, there was a
+tendency for the duration of the ﬁrst ﬁxations on targets to be
+reduced for targets in the upper visual ﬁeld).
+
+Downloaded from pss.sagepub.com at UNIV OF CONNECTICUT on April 12, 2015
+
+45
+
+Object Viewpoint, Visual Field, and Action Instructions During Search
+
+Fig. 3. Mean duration of the ﬁrst ﬁxation on the target (top panel), mean total length of ﬁxations on the target
+(middle panel), and mean number of ﬁxations on the target (bottom panel), as a function of viewpoint, visual ﬁeld,
+and instructions (search by name vs. action).
+
+To understand these results, it is useful to differentiate between effects on the ﬁrst saccade made in search and effects on
+subsequent ﬁxation behavior. The probability of the ﬁrst saccade
+being directed at a target was affected by the orientation of the
+stimuli and the visual ﬁeld of the target, but not by the instructions. The ﬁrst saccade was more likely to go to a prototypical-view than to a nonprototypical-view target, but only
+when that target fell in the lower visual ﬁeld; indeed, only when a
+
+46
+
+prototypical-view target fell in the lower visual ﬁeld was the
+likelihood of the ﬁrst ﬁxation going to the target greater than
+chance. In many search tasks, search is biased to start in the
+upper visual ﬁeld (Heywood & Churcher, 1980). However, there
+was no evidence for such a bias in the present study. We calculated the probability of the ﬁrst saccade being directed toward
+the upper versus the lower visual ﬁeld, irrespective of the target’s location, and found no difference in the rate of downward
+
+Downloaded from pss.sagepub.com at UNIV OF CONNECTICUT on April 12, 2015
+
+Volume 19—Number 1
+
+Sara Forti and Glyn W. Humphreys
+
+versus upward saccades, either as a main effect, F(1, 13) 5 3.09,
+prep 5 .81, or in combination with instructions or viewpoint (both
+Fs < 1.0). The data suggest that there was no systematic tendency, across participants, for search to start or end in set
+locations. The tendency for ﬁrst ﬁxations to go to a prototypicalview target in the lower ﬁeld, then, does not reﬂect a general
+pattern in search, but rather reﬂects the capture of overt attention by the stimulus. This result is consistent with the prototypical-view target being detected by the dorsal visual stream
+prior to the eye movement being programmed—so that the effect
+emerged only when the target was in the lower visual ﬁeld. The
+data suggest that the dorsal stream is sensitive to either the familiarity of the viewpoint or the affordance when the object is in
+the appropriate orientation for action.
+Viewpoint had an early effect on search, inﬂuencing where the
+ﬁrst saccade was made. However, the task instructions did affect
+ﬁxation behavior after the ﬁrst saccade. Fixation durations were
+reduced, and fewer ﬁxations were made, when targets were in the
+lower visual ﬁeld and the action instructions were given. In the
+name condition, ﬁrst-ﬁxation durations tended to be reduced for
+targets in the upper visual ﬁeld. These results suggest that the
+different task instructions affected a stage of processing in
+which ﬁxated information was matched to a template deﬁning
+the target. There appears to be a better match of stimulus information to an action-based template for a target falling in the
+lower, rather than the upper, visual ﬁeld, whereas, if anything,
+there is a better match to a template derived from the object’s
+name when the target is in the upper, rather than the lower, visual ﬁeld. This ﬁt to the template in the action task is also better
+for objects depicted in prototypical views, given that the duration of the ﬁrst ﬁxation in this condition was shorter for targets in
+prototypical views than for targets in nonprototypical views.
+These results are consistent with action-based templates being
+represented in the dorsal visual stream.2
+Although action instructions reduced the duration of the ﬁrst
+ﬁxation to targets in the lower visual ﬁeld, ﬁrst ﬁxations were
+much longer under action than name instructions when targets
+fell in the upper visual ﬁeld. This is not surprising. There is
+inherently more ambiguity about targets deﬁned by action than
+about targets deﬁned by their name (‘‘Is there an object that cuts
+paper present?’’ vs. ‘‘Are scissors present?’’), and one can thus
+expect that it would take more time to verify that a target
+matches a verbal instruction under action than under name instructions. The striking result is that this advantage for the name
+condition was reversed for targets in the lower ﬁeld, which
+suggests that an action template was matched directly to the
+stimulus in this case.
+It should be noted that once an observer makes a ﬁrst saccade
+to an item in the upper or lower visual ﬁeld, that item is no longer
+2
+The action effects reported here may also reﬂect processing in the premotor
+cortex and the frontal eye ﬁelds, which is related to action planning, but we
+know of no evidence indicating a ﬁeld preference in these cortical regions.
+
+Volume 19—Number 1
+
+in the same retinotopic location, though the object remains in
+the same position with respect to the observer’s body. Also, after
+the ﬁrst saccade, objects originally in the lower visual ﬁeld may
+tend still to be represented in near space, and objects originally
+in the upper visual ﬁeld to be represented in far space (cf.
+Previc, 1990). If processing biases in the dorsal stream are
+sensitive to the position of objects with respect to the observer’s
+body, or if the dorsal stream is more sensitive to object locations
+in near space than to object locations in far space, then the
+emergence of the lower-ﬁeld advantage in searching by action
+can be explained. In addition, it is possible that the advantage of
+the lower visual ﬁeld reﬂects the superior extraction of information from the retinotopic lower ﬁeld, which then facilitates
+matching to the action template. The opposite tendency, for an
+upper-ﬁeld advantage in searching for objects deﬁned by their
+names, also arose for ﬁxation behavior subsequent to the ﬁrst
+saccade, which suggests that this tendency, too, reﬂects a process involving matching to memory, rather than directing attention in the ﬁrst place.
+In conclusion, the data indicate that action instructions and
+viewpoint-dependent familiarity or affordance have speciﬁc effects on search for objects appearing in the lower visual ﬁeld.
+The results ﬁt with the idea that the dorsal visual stream, where
+there is strong representation of the lower visual ﬁeld, can both
+direct overt attention (the ﬁrst saccade) and modulate the time
+required to match a stimulus to a template of the target.
+Acknowledgments—This work was supported by grants from
+the Biotechnology and Biological Sciences Research Council,
+Engineering and Physical Sciences Research Council, and Medical Research Council (UK).
+REFERENCES
+Bekkering, H., & Neggers, S.F.W. (2002). Visual search is modulated
+by action intentions. Psychological Science, 13, 370–374.
+Creem, S.H., & Profﬁtt, D.R. (2001). Deﬁning the cortical visual
+systems: ‘‘What’’, ‘‘Where’’, and ‘‘How.’’ Acta Psychologica, 107,
+43–68.
+Duncan, J., & Humphreys, G.W. (1989). Visual search and stimulus
+similarity. Psychological Review, 96, 433–458.
+Galletti, C., Fattori, P., Gamberini, M., & Kutz, D.F. (1999). The cortical visual area V6: Brain location and visual topography. European Journal of Neuroscience, 11, 3922–3936.
+Handy, T.C., Grafton, S.T., Shroff, N.M., Ketay, S., & Gazzaniga, M.S.
+(2003). Graspable objects grab attention when the potential for
+action is recognized. Nature Neuroscience, 6, 421–427.
+Hannus, A., Cornelissen, F.W., Lindemann, O., & Bekkering, H. (2005).
+Selection-for-action in visual search. Acta Psychologica, 118,
+171–191.
+Heywood, S., & Churcher, J. (1980). Structure of the visual array and
+saccadic latency: Implications for oculomotor control. Quarterly
+Journal of Experimental Psychology, 32, 335–341.
+Horton, J.C., & Hoyt, W.F. (1991). Quadrantic visual-ﬁeld defects: A
+hallmark of lesions in extrastriate (V2/V3) cortex. Brain, 114,
+1703–1718.
+
+Downloaded from pss.sagepub.com at UNIV OF CONNECTICUT on April 12, 2015
+
+47
+
+Object Viewpoint, Visual Field, and Action Instructions During Search
+
+Humphreys, G.W., & Riddoch, M.J. (2001). Detection by action: Evidence for affordances in search in neglect. Nature Neuroscience,
+4, 84–88.
+Milner, A.D., & Goodale, M.A. (1993). Visual pathways to perception
+and action. Progress in Brain Research, 95, 317–337.
+Moores, E., Laiti, L., & Chelazzi, L. (2003). Associative knowledge
+controls deployment of visual selective attention. Nature Neuroscience, 6, 182–189.
+Niebauer, C.L., & Christman, S.D. (1998). Upper and lower visual ﬁeld
+differences in categorical and coordinate judgments. Psychonomic Bulletin & Review, 5, 147–151.
+Palmer, S., Rosch, E., & Chase, P. (1981). Canonical perspective and
+the perception of objects. In J.B. Long & A.D. Baddeley (Eds.),
+Attention and performance, IX (pp. 135–151). Hillsdale, NJ:
+Erlbaum.
+
+48
+
+Previc, F.H. (1990). Functional specialization in the lower and upper
+visual ﬁelds in humans: Its ecological origins and neurophysiological implications. Behavioral and Brain Sciences, 13, 519–
+541.
+Wolfe, J.M. (1994). Guided Search 2.0: A revised model of visual
+search. Psychonomic Bulletin & Review, 1, 202–238.
+Yoon, E.Y., & Humphreys, G.W. (2007). Dissociative effects of viewpoint and semantic priming on action and semantic decisions:
+Evidence for dual routes to action from vision. Quarterly Journal
+of Experimental Psychology, 60, 601–623.
+
+(RECEIVED 4/24/07; REVISION ACCEPTED 6/3/07)
+
+Downloaded from pss.sagepub.com at UNIV OF CONNECTICUT on April 12, 2015
+
+Volume 19—Number 1
+
+

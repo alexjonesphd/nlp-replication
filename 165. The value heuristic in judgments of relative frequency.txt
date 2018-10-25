@@ -1,0 +1,176 @@
+P SY CH OL OG I C AL S CIE N CE
+
+Short Report
+
+The Value Heuristic in Judgments
+of Relative Frequency
+Xianchi Dai, Klaus Wertenbroch, and C. Miguel Brendl
+INSEAD Europe Campus, Fontainebleau, France
+Estimating the relative frequency of a class of objects or events
+is fundamental in subjective probability assessments and decision making (Estes, 1976), and research has long shown that
+people rely on heuristics for making these judgments (Gilovich,
+Grifﬁn, & Kahneman, 2002). In this report, we identify a novel
+heuristic for making these judgments, the value heuristic:
+People judge the frequency of a class of objects on the basis of
+the subjective value of the objects.
+Why use object value as a cue to object frequency? A psychological and economic principle of valuation is that the
+scarcity of objects increases their value (e.g., Brock, 1968;
+Hirshleifer, Glazer, & Hirshleifer, 2006; McKenzie & Chase, in
+press). Two different theoretical perspectives led us to hypothesize that people use this relationship to heuristically—and
+inversely—infer the frequency of a class of objects from their
+value. Kahneman and Frederick (2002) proposed that heuristic
+judgments rely on attribute substitution: In assessing an attribute (the target attribute, e.g., the frequency of an object) that
+is less readily assessed than a related property (the heuristic
+attribute, e.g., the value of the object), people unwittingly substitute the simpler assessment of the heuristic attribute for the
+assessment of the target attribute. This can bias judgments when
+the heuristic attribute is not diagnostic of the target attribute. Yet
+our proposition is also consistent with Brunswik’s (1952) notion
+of probabilistic functionalism. Subjective estimates of a distal
+variable rely on judgmental cues that are probabilistically related to it. Brunswik’s concept of vicarious functioning denotes
+the ability to analyze several cues that are correlated with the
+distal variable (e.g., frequency) and to substitute one cue (e.g.,
+value) for another (e.g., ease of recall), a process that yields valid
+alternative routes to the distal variable.1
+If people use the value of a class of stimuli heuristically to
+infer the frequency of the stimuli, they will assess more valuable
+Address correspondence to Xianchi Dai, Marketing Area, INSEAD
+Europe Campus, Boulevard de Constance, 77305 Fontainebleau
+Cedex, France, e-mail: xianchi.dai@insead.edu.
+1
+See Hammond (1990) for a theoretical integration of Tversky and Kahneman’s (e.g., 1974) heuristics and biases program and Brunswik’s (e.g., 1952)
+functionalism.
+
+18
+
+stimulus classes as being less frequent even when value is not
+diagnostic of frequency. To test this hypothesis, we manipulated
+the value of stimuli only after participants had encoded them;
+then, participants assessed the frequencies of the stimuli. A
+randomization procedure ensured that stimulus value could not
+be diagnostic of frequency.
+METHOD
+
+Thirty female and 38 male Sorbonne University undergraduates
+viewed a randomized sequence of 57 pictures of ﬂowers and 57
+pictures of birds presented on a computer screen. We did not
+reveal these frequencies. Participants then learned that they
+would receive 2b for each previously seen picture from one of the
+two categories (either birds or ﬂowers). To determine the endowed category, respondents ﬂipped a coin. Next, we asked them
+to estimate the number of pictures in each category. To provide an
+incentive for accuracy, we promised an additional h1.00 for each
+estimate that fell within 5 of the actual number. Finally, participants rated whether they believed the endowed category had
+been determined randomly (scale from 0, not at all, to 6, very
+much). Five participants were excluded from the analysis because they misunderstood which category was endowed.
+RESULTS
+
+Because frequency estimates varied considerably (between 10
+and 110), we compared the two endowment conditions (birds
+endowed vs. ﬂowers endowed) to determine whether they differed in how many participants provided lower, equal, and
+higher estimates of the number of endowed pictures relative to
+the number of nonendowed pictures (see Fig. 1).
+As predicted, participants were more likely to underestimate
+the number of ﬂower pictures relative to bird pictures when they
+expected payment for ﬂower pictures (15 of 31 participants,
+48%) than when they expected payment for bird pictures (8 of 32
+participants, 25%). In contrast, they were more likely to underestimate the number of bird pictures relative to ﬂower pictures when they expected payment for bird pictures (21 of 32
+participants, 66%) than when they expected payment for ﬂower
+
+Copyright
+2008 Association
+for Tech
+Psychological
+Science
+Downloaded
+fromr
+pss.sagepub.com
+at Virginia
+on May 14, 2015
+
+Volume 19—Number 1
+
+Xianchi Dai, Klaus Wertenbroch, and C. Miguel Brendl
+
+value is not the result of biased frequency encoding, but rather
+reﬂects a new judgment heuristic.
+Like other judgmental heuristics, the value heuristic may
+improve efﬁciency—greater value is often related to greater
+scarcity in everyday life, as it is the relative scarcity of objects
+that determines their market price. However, the value heuristic
+can also bias judgments. If people use their idiosyncratic valuations rather than market valuations to estimate the supply of
+goods, they may underestimate the supply of what they personally value, which will affect their search behavior and willingness
+to pay. Thus, the present demonstration of the value heuristic not
+only adds to the repertoire of known judgmental heuristics, but
+also suggests avenues for exploring biases in people’s economic
+intuitions and in their understanding of market mechanisms.
+Fig. 1. Percentage of participants who estimated that there were fewer
+ﬂower pictures than bird pictures, fewer bird pictures than ﬂower pictures, and equal numbers of ﬂower and bird pictures, as a function of
+which category was endowed. The numbers in boldface indicate the
+number of participants in each category.
+
+pictures (12 of 31 participants, 39%), w2(1, N 5 56) 5 4.51, p 5
+.037, prep 5 .93, odds ratio 5 3.28.2 Underestimating the frequency of the endowed category was independent of perceiving
+the endowment procedure to be random. Participants’ randomness ratings did not correlate with the ratio of their frequency
+estimates of the endowed and the nonendowed categories
+(Pearson’s r 5 –.047, N 5 63, p 5 .712).
+To test the robustness of this effect of value on frequency estimates, we ran two additional experiments. In the ﬁrst, we followed the same procedure to endow value randomly, but used
+simultaneously presented, meaningless letter combinations, rather than pictures, as stimuli. The results replicated those reported
+here. In the second experiment, participants underestimated the
+frequency of opposite-gender portraits relative to own-gender
+portraits when the portraits were attractive (so that oppositegender portraits were intrinsically more desirable to look at), but
+not when the portraits were not attractive. The value heuristic is
+robust, regardless of whether stimuli are presented sequentially
+or simultaneously, or whether stimulus value is experimentally
+induced or intrinsic.
+DISCUSSION
+
+People use the value of a class of objects to infer the frequency of
+that class. Our results implicate a judgment process at the
+stimulus-retrieval stage, rather than at the encoding stage, because the value difference between the stimulus categories was
+induced randomly only after the stimuli were presented. This
+point is of theoretical importance because it implies that estimating the frequency of a class of objects on the basis of their
+2
+To avoid expected cell frequencies of less than 5 (Siegel, 1956, p. 110) in the
+chi-square test, we excluded participants who estimated equal numbers of birds
+and ﬂowers. Ordinal regression analysis including all cells yielded similar
+results.
+
+Volume 19—Number 1
+
+Acknowledgments—We thank Associate Editor Valerie Reyna
+and Pierre Chandon, Ralph Hertwig, and Orit Tykocynski for
+their valuable comments.
+REFERENCES
+Brock, T.C. (1968). Implications of commodity theory for value change.
+In A.G. Greenwald, T.C. Brock, & T.M. Ostrom (Eds.), Psychological foundations of attitudes (pp. 243–275). New York: Academic Press.
+Brunswik, E. (1952). The conceptual framework of psychology (International Encyclopedia of Uniﬁed Science Vols. I and II: Foundations of the Unity of Science. Vol. I, No. 10). Chicago:
+University of Chicago Press.
+Estes, W.K. (1976). The cognitive side of probability learning. Psychological Review, 83, 37–64.
+Gilovich, T., Grifﬁn, D., & Kahneman, D. (Eds.). (2002). Heuristics and
+biases: The psychology of intuitive judgment. New York: Cambridge University Press.
+Hammond, K.R. (1990). Functionalism and illusionism: Can integration be usefully achieved? In R.M. Hogarth (Ed.), Insights in
+decision making: A tribute to Hillel J. Einhorn (pp. 227–261).
+Chicago: University of Chicago Press.
+Hirshleifer, J., Glazer, A., & Hirshleifer, D. (2006). Price theory and
+applications: Decisions, markets, and information. New York:
+Cambridge University Press.
+Kahneman, D., & Frederick, S. (2002). Representativeness revisited:
+Attribute substitution in intuitive judgment. In T. Gilovich, D.
+Grifﬁn, & D. Kahneman (Eds.), Heuristics and biases: The psychology of intuitive judgment (pp. 49–81). New York: Cambridge
+University Press.
+McKenzie, C.R.M., & Chase, V.M. (in press). Why rare things are
+precious: The importance of rarity in lay inference. In P.M. Todd,
+G. Gigerenzer, & The ABC Research Group (Eds.), Ecological
+rationality: Intelligence in the world. Oxford, England: Oxford
+University Press.
+Siegel, S. (1956). Nonparametric statistics for the behavioral sciences.
+New York: McGraw-Hill.
+Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty:
+Heuristics and biases. Science, 185, 1124–1131.
+
+(RECEIVED 1/23/07; REVISION ACCEPTED 5/4/07)
+
+Downloaded from pss.sagepub.com at Virginia Tech on May 14, 2015
+
+19
+
+

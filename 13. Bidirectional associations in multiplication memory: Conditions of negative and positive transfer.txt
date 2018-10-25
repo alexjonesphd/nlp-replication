@@ -1,0 +1,1166 @@
+Journal of Experimental Psychology:
+Learning, Memory, and Cognition
+2008, Vol. 34, No. 3, 546 –555
+
+Copyright 2008 by the American Psychological Association
+0278-7393/08/$12.00 DOI: 10.1037/0278-7393.34.3.546
+
+Bidirectional Associations in Multiplication Memory: Conditions of
+Negative and Positive Transfer
+Jamie I. D. Campbell and Nicole D. Robert
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+University of Saskatchewan
+A variety of experimental evidence indicates that the memory representation for multiplication facts (e.g.,
+6 ⫻ 9 ⫽ 54) incorporates bidirectional links with a forward association from factors to product and a
+reverse association from product to factors. Surprisingly, the authors did not find evidence in Experiment
+1 of facilitative transfer-of-practice from multiplication (6 ⫻ 9 ⫽ ?) to factoring (54 ⫽ ? ⫻ ?); in fact,
+multiplication practice produced item-specific interference with factoring. Similarly, the authors found
+no evidence in Experiment 2 that repetition of specific factoring problems (54 ⫽ ? ⫻ ?) facilitated
+performance of corresponding multiplication problems (6 ⫻ 9 ⫽ ?). In Experiment 3, participants
+practiced both multiplication and factoring and presented facilitative transfer in both directions. Thus,
+bidirectional facilitation occurred if both operations were practiced, but interference occurred when only
+one operation was practiced. We propose that this seemingly paradoxical behavior occurs because it is
+adaptive for the bidirectional retrieval structure to retain operational flexibility in the context of
+practicing both operations, whereas it is adaptive to specialize the memory representation for the
+practiced operation (i.e., factoring or multiplication) when only one operation is practiced.
+Keywords: arithmetic, factoring, multiplication, transfer, identical elements
+
+identical elements theory, the so-called reverse association. To
+foreshadow our main conclusion, despite the surprising discrepancy in behavior between the two paradigms, taken together, the
+results do provide compelling evidence for the reverse association.
+
+The cognitive mechanisms that underlie performance of simple
+arithmetic (e.g., 2 ⫹ 4 ⫽ 6, 6 ⫻ 8 ⫽ 48) have received extensive
+experimental analysis over the past quarter century. The main
+theoretical goals have been to characterize the representations,
+retrieval processes, and procedural strategies that subserve elementary math (see Ashcraft, 1992, 1995; Campbell & Xue, 2001;
+LeFevre, Sadesky & Bisanz, 1996; Zbrodoff & Logan, 2005).
+Understanding these basic skills is important because numeracy is
+an increasingly pervasive requirement of modern life and because
+cognitive number processing provides a constrained and tractable
+domain for developing detailed theoretical models (Butterworth,
+1999; Campbell, 2005; Dehaene, 1997). This article reports three
+experiments that pursued predictions of a prominent theory of
+arithmetic fact representation: the identical elements (IE) model
+(Rickard, 2005; Rickard & Bourne, 1996; Rickard, Healy, &
+Bourne, 1994; see also Campbell, Fuchs-Lacelle & Phenix, 2006).
+The central theoretical issue that emerges is that two apparently
+similar transfer-of-practice paradigms produce diametrically opposed effects—in one case positive transfer (retrieval facilitation)
+and in other, negative transfer (retrieval interference). This raises
+doubts about the evidential basis for a central component of the
+
+The Identical Elements Model
+The principles of the IE model originate in Edward L.
+Thorndike’s seminal work of the early 20th century in which he
+argued that transfer of learning was restricted to training and test
+conditions with identical elements (see Singley & Anderson, 1989,
+for an excellent overview of Thorndike’s transfer research). Applying IE principles to mental arithmetic, Rickard et al. (1994;
+Rickard & Bourne, 1996) proposed that there is a single memory
+node for arithmetic facts composed of identical elements (i.e.,
+operands and answer) regardless of operand order. For example,
+each multiplication node specifies the two operands, the operation,
+and the product (e.g., [6, 8, ⫻ 3 48]) and is accessed by either
+operand order (6 ⫻ 8 or 8 ⫻ 6). In contrast, problems that present
+different operands and have different answers access different
+nodes. Thus, inverse division problems (e.g., 48 ⫼ 8 and 48 ⫼ 6)
+are represented by different nodes ([48, 8, ⫼ 3 6] and [48, 6, ⫼
+3 8]).
+Rickard and colleagues (Rickard & Bourne, 1996; Rickard et al.,
+1994) conducted a series of transfer-of-practice experiments that
+supported the basic IE model. These showed that repeated practice
+of specific problems produced positive transfer (i.e., response time
+[RT] savings) between identical pairs (e.g., 6 ⫻ 8 and 6 ⫻ 8) that
+was practically equivalent to that between commuted pairs (e.g.,
+8 ⫻ 6 and 6 ⫻ 8). This result supports the assumption that a
+common representation mediates both orders of commuted multiplication pairs (cf. Verguts & Fias, 2005). In contrast, Rickard and
+colleagues found no transfer of savings between the two orders of
+
+Jamie I. D. Campbell and Nicole D. Robert, Department of Psychology,
+University of Saskatchewan, Saskatoon, Saskatchewan, Canada.
+Nicole D. Robert is now in the Department of Psychology, Carleton
+University, Ottawa, Ontario, Canada.
+This research was supported by a grant from the Natural Sciences and
+Engineering Research Council of Canada.
+Correspondence concerning this article should be addressed to Jamie
+I. D. Campbell, Department of Psychology, 9 Campus Drive, University of
+Saskatchewan, Saskatoon, Saskatchewan, Canada S7N 5A5. E-mail:
+Jamie.Campbell@USask.Ca
+546
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+REVERSE ASSOCIATION
+
+division problems (practice 56 ⫼ 7 ⫽ 8, test 56 ⫼ 8 ⫽ 7) and little
+evidence of facilitative transfer in either direction between division
+and multiplication (practice 7 ⫻ 8 ⫽ 56, test 56 ⫼ 8 ⫽ 7, or
+practice 56 ⫼ 8 ⫽ 7, test 7 ⫻ 8 ⫽ 56). Campbell et al. (2006)
+demonstrated that the IE model also applies to addition and subtraction: There is virtually complete transfer across commuted
+addition pairs composed of identical elements (e.g., 6 ⫹ 8 ⫽ 14
+and 8 ⫹ 6 ⫽ 14) but practically no transfer between inverse
+subtraction pairs (e.g., 14 – 6 ⫽ 8 and 14 – 8 ⫽ 6).
+Nonetheless, other transfer experiments testing simple multiplication and division indicated that the original IE model was not
+sufficient. Campbell (1999) used a transfer paradigm that measured the effects of a single prime problem on a probe problem
+tested a few trials later. There were transfer effects not predicted
+by the IE model, including significant transfer of savings between
+the two orders of division problems. Additionally, the larger, more
+difficult division problems presented substantial RT savings in the
+multiplication-to-division transfer condition (e.g., prime 7 ⫻ 9,
+probe 63 ⫼ 7). Campbell proposed that transfer between orderreversed division problems and between multiplication and division could be reconciled with the IE model by distinguishing
+associative transfer (i.e., savings from strengthening a common
+problem node) from mediated transfer (i.e., savings from strengthening a related, mediator problem). Mediation involves solving a
+problem (e.g., 63 ⫼ 7 ⫽ ?) by reference to a closely related
+problem (e.g., 7 ⫻ 9 ⫽ 63 or 63 ⫼ 9 ⫽ 7). Because mediated
+performance depends on the accessibility of the mediator, strengthening of the mediator produces RT savings (see also LeFevre &
+Morris, 1999; Mauro, LeFevre & Morris, 2003).
+To accommodate evidence of mediated transfer, Rickard (2005)
+introduced a revised IE model (IE-r), which distinguishes between
+asymptotic IE representations and nonasymptotic IE representations. When memory strength for a fact representation is near
+asymptote, then performance will be mediated by direct retrieval,
+and transfer effects will reflect IE principles. When memory
+strength is below asymptote, then transfer effects might be mediated (e.g., division facilitated by strengthening the mediating multiplication fact). Indeed, Campbell et al. (2006) showed that interoperation transfer between division and multiplication was
+observed only when trials reportedly solved by procedural strategies were included for analysis. When analysis included only trials
+for which participants reported direct memory retrieval, there was
+little evidence of inter-operation transfer. Thus, consistent with the
+IE-r model, inter-operation transfer between division and multiplication apparently depends on mediational strategies that are used
+when direct memory retrieval is not supported.
+Rickard’s (2005) IE-r model also specified the mechanism by
+which multiplication mediates division. Rickard proposed that, in
+addition to providing a forward association from factors to products (e.g., 7 ⫻ 5 ⫽ 35), the IE representation of multiplication
+facts also provides the reverse association from the product (e.g.,
+35) to its factors (7 and 5). The reverse association can mediate
+division when the required division fact is below asymptote. For
+example, presentation of 56 ⫼ 7 would activate the reverse association from 56 to 7 and 8, with the unique element (8) reported as
+the quotient. In two experiments, Rickard showed that university
+students are, in fact, very efficient at factoring (i.e., stating the
+factors given the product) and that practicing specific factoring
+
+547
+
+problems (30 ⫽ ? ⫻ ?) produced facilitative transfer to the corresponding multiplication fact (5 ⫻ 6 ⫽ ?).
+Rusconi, Galfano, Rebonato, and Umiltà (2006) provided converging evidence for the reverse association in multiplication.
+Rusconi et al. used the number matching task introduced by
+LeFevre, Bisanz, and Mrkonjic (1988; Thibodeau, LeFevre &
+Bisanz, 1996) in which participants are flashed a pair of cue digits
+(e.g., 2 4) and then must decide if a subsequently presented target
+number matches one of the cue digits. Response times are relatively slow if the target is the product (i.e., 8), as compared with an
+unrelated number (e.g., 7). This suggests that multiplication problems can automatically activate the product, which interferes with
+a no-match decision. Rusconi et al. showed that this interference
+effect is also observed in the reverse direction (e.g., cue 8, target
+2 4) and concluded that multiplication facts incorporate bidirectional links that provide both a forward and a reverse association.
+Rickard (2005) pointed out that the reverse association would
+develop for multiplication facts but would not be likely to develop
+for addition facts. This asymmetry would occur because, for the
+single-digit multiplication facts, most products are associated with
+a unique pair of factors (e.g., 27 with 3 and 9) or two pairs of
+factors (24 with 3 and 8, or 4 and 6), whereas sums generally do
+not map onto unique addends. Consequently, practicing multiplication would establish both forward and reverse associations, but
+practicing addition would not. Without a reverse addition association to mediate subtraction, it follows that addition-based mediational strategies should be relatively infrequent for subtraction.
+Consistent with this, Campbell et al. (2006) observed interoperation transfer in both directions between corresponding simple
+multiplication and division, but no inter-operation transfer of savings between addition and subtraction.
+
+Experiment 1
+The reverse association is supported directly by two different
+experimental methodologies (Rickard, 2005; Rusconi et al., 2006)
+and also neatly explains the complex pattern of facilitative transfer
+effects observed in simple arithmetic (e.g., Campbell et al., 2006).
+In the present study, we sought converging evidence for the
+reverse association using a different transfer paradigm from that
+employed by Rickard (2005). In Rickard’s transfer study (Experiment 1), participants received 40 practice blocks of alternating
+factoring problems (8 ⫽ ? ⫻ ?) and multiplication problems (3 ⫻
+4 ⫽ ?). During the subsequent multiplication test phase, participants received the items practiced by factoring (i.e., practiced 8 ⫽
+? ⫻ ? then tested on 2 ⫻ 4); the practiced multiplication problems;
+and new, unpracticed multiplication problems. Relative to new
+problems, factoring facilitated corresponding multiplication problems substantially; improvement was 59% of that observed from
+practicing multiplication. Thus, factoring appeared to strengthen
+the corresponding multiplication fact, although not as much as
+practicing multiplication. Rickard argued that the same memory
+structure is strengthened by factoring or multiplying but that there
+are also operation-specific processes that are strengthened, which
+results in larger savings for the same operation than if there were
+an operation change at test.
+In Experiment 1, we attempted to extend the Rickard (2005)
+transfer results using a pretest–practice–posttest design. Rickard
+examined inter-operation transfer from factoring to multiplication
+
+CAMPBELL AND ROBERT
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+548
+
+only, but the IE-r model predicts that there also should be transfer
+from practicing multiplication to factoring. Therefore, in Experiment 1, we examined effects of practicing multiplication (2 ⫻ 7 ⫽
+?) on performance of the same problem (2 ⫻ 7 ⫽ ?) and performance on the corresponding factoring problem (14 ⫽ _ ⫻ _ ?).
+One group of participants performed multiplication during the
+pretest and posttest, and the other group performed factoring. Both
+groups practiced only multiplication during the practice phase.
+During the pretest and posttest, three experimentally defined problem sets were tested: practiced problems (composed from a subset
+of four factors, either 2, 4, 7, 8 or 3, 5, 6, 9), unrelated problems
+(composed from the factor set not used for the practiced problems),
+and related problems (composed of one factor from the practice set
+and one not used for the practice set). During the practice phase,
+participants received 15 continuous blocks of the practice set
+presented as multiplication problems. This pretest–practice–
+posttest design allowed us to measure transfer from multiplication
+practice to the same multiplication problem and to the corresponding factoring problem, with the unrelated problems providing a
+control baseline. The related problems could be informative as
+well. Phenix and Campbell (2004) demonstrated that multiplication fact retrieval is subject to retrieval-induced forgetting (RIF).
+RIF is the phenomenon whereby repeated retrieval of a subset of
+items results in increased retrieval difficulty for related items that
+were not practiced (Anderson, Bjork, & Bjork, 2000; Anderson &
+Green, 2001; Anderson, Green, & McCulloch, 2000). Similarly,
+Phenix and Campbell found that repeatedly practicing some members of a times-table family (e.g., 7 ⫻ 2, 7 ⫻ 3, 7 ⫻ 4,. . .7 ⫻ 9)
+resulted in slower response times for other members of the family.
+Thus, comparing related and unrelated problems at posttest was
+expected to provide a measure of RIF in this experiment.
+
+Method
+Participants
+Twenty-eight volunteers (23 women, 5 men) were recruited
+from the participant pool organized by the Department of Psychology at the University of Saskatchewan. Participants ranged in age
+from 18 to 21 years (M ⫽ 18.8), reported normal or corrected-tonormal vision and, received bonus credit in their introductory
+psychology course for participation.
+
+Stimuli and Design
+The experiment consisted of three phases, including a pretest,
+practice, and posttest. There were two pretest and three posttest
+blocks in which all 21 multiplication problems were presented in
+a random order. During the pretest and posttest, participants in the
+factoring group received the product (e.g., 56) and typed in the
+corresponding factors (7 8) in either order. Multiplication participants received the factors (7 ⫻ 8) and typed the correct product
+(56). Odd or even participant number determined assignment to the
+factoring or multiplication group. During the practice phase, participants received 15 continuous blocks of seven practice-set problems, in random order, presented as multiplication problems.
+Among the 21 problems tested in the pretest and posttest phases,
+there were the seven practice-set problems, seven unrelated problems composed from operands not used for the practice set, and
+
+seven related problems that included one operand used for the
+practice set. To create these sets, seven problems were composed
+from the factors 2, 4, 7, and 8 (8 ⫽ 4 ⫻ 2, 14 ⫽ 7 ⫻ 2, 28 ⫽ 7 ⫻
+4, 32 ⫽ 8 ⫻ 4, 49 ⫽ 7 ⫻ 7, 56 ⫽ 7 ⫻ 8, 64 ⫽ 8 ⫻ 8) and seven
+others from the factors 3, 5, 6, and 9 (15 ⫽ 5 ⫻ 3, 25 ⫽ 5 ⫻ 5,
+27 ⫽ 9 ⫻ 3, 30 ⫽ 6 ⫻ 5, 45 ⫽ 9 ⫻ 5, 54 ⫽ 9 ⫻ 6, 81 ⫽ 9 ⫻ 9).
+Assignment of these two sets to the practice and unrelated conditions was counterbalanced across participants. Practice and unrelated problems were unrelated in virtue of sharing no common
+factor. Seven related problems were composed that contained one
+factor that appeared in the practice set and one that did not appear
+in the practice set. All participants received the same related
+problem set, which included 6 ⫽ 3 ⫻ 2, 10 ⫽ 5 ⫻ 2, 20 ⫽ 5 ⫻
+4, 21 ⫽ 7 ⫻ 3, 42 ⫽ 7 ⫻ 6, 48 ⫽ 8 ⫻ 6, 72 ⫽ 9 ⫻ 8. Although
+absolute performance on the related set cannot be compared with
+the practice and unrelated sets because of the possibility that the
+related set differs in difficulty from the other two, changes in
+performance for the related set between pretest and posttest can be
+meaningfully interpreted (cf. Phenix & Campbell, 2004). Multiplication problems always appeared with the larger factor on the
+left. All problems were presented horizontally in white characters
+against a dark background. Characters were approximately 3 mm
+wide by 5 mm high.
+
+Procedure
+The experiment required approximately 30 min and took place
+in a quiet room with a researcher present. An IBM-type computer
+was used, with two high-resolution monitors to display stimuli.
+The researcher sat behind the participant, and each viewed a
+separate monitor. The instructions for the task emphasized both
+speed and accuracy. Factoring participants were instructed to use
+the numbers 2 through 9 as factors and were informed that factor
+order did not matter. Participants entered their responses using the
+number pad on the computer keyboard. RT was measured from
+stimulus onset to the final keystroke.
+To begin each trial, a fixation dot appeared in the center of the
+screen for 1 s, then flashed twice. The problem appeared on what
+would have been the third flash. Multiplication problems occupied
+a seven-character field (e.g., 7 ⫻ 2), with the multiplication sign at
+fixation. For factoring problems, the stimulus (e.g., 14) appeared
+with the leftmost character at fixation. The problem remained on
+the screen until the participant had completed their response.
+Presentation of problems within each block was continuous, but
+participants received a short break after the pretest–posttest and
+practice phases. Participants did not receive feedback about speed
+or accuracy.
+
+Results
+The analyses of variance (ANOVAs) included data from the last
+block of the pretest and the first block of the posttest, which
+provide the cleanest measure of transfer effects owing to the
+practice phase.
+
+Response Times
+Log transformation was applied to reduce effects of outlier RTs
+and to normalize the data (cf. Campbell et al., 2006; Rickard,
+
+REVERSE ASSOCIATION
+
+Table 1
+Anti-Log of Mean Median Log Response Time for Correct Trials
+and Percentage of Errors in Experiment 1 by Operation,
+Problem Type, and Test Phase
+Factor
+Problem type
+
+Pretest
+
+Multiply
+Posttest
+
+Pretest
+
+549
+
+was no evidence of a three-way interaction in the main analysis of
+related and unrelated problems, F(1, 26) ⫽ 0.64, MSE ⫽ 5,369.9,
+p ⫽ .43. Thus, the significant three-way interaction in the overall
+ANOVA was attributable primarily to the opposing effects of
+multiplication practice on the multiplication practice set (facilitation) and factoring practice set (interference).
+
+Posttest
+
+Percentage of Errors
+Response time (ms)
+1,571
+1,760
+1,571
+
+1,736
+1,531
+1,612
+
+1,728
+1,835
+1,610
+
+1,355
+1,652
+1,545
+
+15.3
+8.2
+15.3
+
+2.0
+14.3
+9.2
+
+Percentage of errors
+Practiced
+Unrelated
+Related
+
+9.2
+9.2
+5.1
+
+17.3
+11.2
+3.1
+
+Note. Means based on the last block of the pretest phase and first block
+of the posttest phase.
+
+2005). The median of log RTs for correct trials were analyzed with
+a 2 ⫻ 3 ⫻ 2 ANOVA, with variables of group (multiplication or
+factoring), problem type (practiced, unrelated, related), and test
+phase (pretest or posttest). The antilogs of the mean median RTs
+appear in Table 1. Applying the antilog transformation restores the
+normalized means to units in milliseconds. Transfer effects (i.e.,
+mean pretest RTminus mean posttest RT) with Masson and Loftus
+(2003, p. 212) repeated measures 95% confidence intervals appear
+in Figure 1. The only significant effect in the ANOVA was the
+three-way interaction of group, problem type, and test phase, F(2,
+52) ⫽ 6.60, MSE ⫽ 3,822.54, p ⫽ .003. Figure 1 shows that
+practicing a subset of multiplication problems (i.e., the practiced
+problem set) facilitated multiplication of those problems in the
+posttest relative to the pretest (373 ms), but multiplication practice
+interfered with the corresponding factoring problems (⫺165 ms).
+Thus, instead of the expected facilitation effect, multiplication
+practice produced robust interference for the corresponding factoring problems.
+A comparison of the related and unrelated problems provided a
+test for RIF; specifically, if related problems were inhibited during
+practice, we would expect negative transfer for related relative to
+unrelated problems. Figure 1 suggests that unrelated problems
+presented some RT savings relative to related problems in the
+posttest block. A separate 2 ⫻ 2 ⫻ 2 ANOVA that compared RT
+for the unrelated and related problem sets as a function of group
+and test phase (last block of pretest vs. first block of posttest)
+provided weak evidence for a Test Phase ⫻ Problem Type interaction, F(1, 26) ⫽ 3.23, MSE ⫽ 5,369.9, p ⫽ .08. This trend
+persisted into the second posttest block, however, and the Test
+Phase ⫻ Problem Type interaction was statistically robust when
+both posttest blocks were included, F(1, 26) ⫽ 6.22, MSE ⫽
+4,980.8, p ⫽ .019 (RT savings of 245 ms and ⫺11 ms for the
+unrelated and related sets, respectively). RT savings for the unrelated problems presumably would arise from participants globally
+speeding up in the posttest relative to the pretest (with commensurate accuracy costs; see following error analysis). Relatively less
+speed-up for the related problem set would occur if related problems were inhibited during the practice phase (i.e., RIF). There
+
+The overall error rate was 9.9%. Mean percentage of errors (see
+Table 1) received a 2 ⫻ 3 ⫻ 2 ANOVA, with variables of group
+(multiplication or factoring), problem type (practiced, unrelated,
+related), and test phase (pretest or posttest). As in the analysis of
+RT, there was a triple interaction of group, problem type, and test
+phase, F(2, 52) ⫽ 6.15, MSE ⫽ 96.5, p ⫽ .004. Again, practiced
+multiplication problems presented facilitation, with error rates
+dropping from 15.3% at the end of pretest to 2.0% at the beginning
+of the posttest. As in the RT analysis, the corresponding factoring
+problems encountered interference, with errors increasing from
+9.2% in the pretest to 17.3% in the posttest.
+In a separate error analysis that included only the related and
+unrelated problems, only the Test Phase ⫻ Problem Type effect
+was significant, F(1, 26) ⫽ 6.16, MSE ⫽ 75.69, p ⫽ .02. Errors on
+unrelated problems increased in the posttest relative to the pretest,
+whereas related problems tended to produce fewer errors in the
+posttest (see Table 1). The increase in errors for unrelated problems presumably represents a speed–accuracy tradeoff associated
+with global speed up in the posttest (see preceding RT analyses).
+The opposing trend toward reduced errors on related problems in
+the posttest could be a consequence of RIF. RIF is expected to
+inhibit related problems (i.e., other problems in the same times
+table; Phenix & Campbell, 2004), but this could facilitate accuracy
+for problems in the related set by inhibition of their semantic
+competitors. RIF would thereby slow related set RT (see preceding
+RT analysis) but reduce related set errors. There was no evidence
+
+600
+500
+
+Pre - Post RT (ms)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Practiced
+Unrelated
+Related
+
+Group
+Factor
+Multiply
+
+400
+300
+200
+100
+0
+-100
+-200
+-300
+-400
+
+Practiced Unrelated Related
+
+Problem Set
+Figure 1. Mean pretest minus mean posttest response time (RT) by group
+(factor or multiply during the pretest and posttest) and problem set (practiced, unrelated, related) in Experiment 1. Both groups multiplied during
+the practice phase. Error bars are 95% confidence intervals (Masson &
+Loftus, 2003).
+
+CAMPBELL AND ROBERT
+
+550
+
+of the three-way interaction, F(1, 26) ⫽ 1.54, MSE ⫽ 75.69, p ⫽
+.23. Thus, as in the RT analysis, the significant three-way interaction in the overall ANOVA was attributable primarily to positive
+transfer to the multiplication practice set but negative transfer to
+corresponding factoring problems.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Discussion
+Participants in the factoring group performed as quickly and
+accurately as participants in the multiplication group, even during
+the pretest. This is consistent with participants entering the experiment already in possession of accessible representations for factoring. Multiplication practice produced strong facilitation for the
+practiced multiplication problems both in terms of RT and accuracy. Thus, the practice phase clearly was effective in strengthening the practiced multiplication facts. In contrast, multiplication
+practice disrupted performance of the corresponding factoring
+problems at posttest. This appears to be contrary to the hypothesis
+that multiplication practice should strengthen a bidirectional retrieval structure that subserves both multiplication and factoring.
+There was some evidence in the RT analysis that performance of
+related problems also encountered interference relative to unrelated problems, but there was no evidence that this differed between the factoring and multiplication groups. This pattern raises
+the possibility that multiplication practice inhibited RT for other
+items in the same times table, which would be consistent with
+previous evidence of RIF in simple multiplication (Phenix &
+Campbell, 2004). As this trend was statistically equivalent for the
+factoring and multiplication groups, it follows that RIF affected
+both factoring and multiplication. This would be consistent with
+the view that factoring and multiplication utilize the same retrieval
+structure.
+Nonetheless, Experiment 1 clearly failed to find that multiplication practice facilitated factoring for the corresponding problems; indeed, multiplication practice (7 ⫻ 8 ⫽ ?) interfered with
+the corresponding factoring problem (56 ⫽ ? ⫻ ?). This negative
+transfer is opposite the facilitation expected if practicing one
+direction of the bidirectional retrieval structure facilitated its processing in both directions. Before considering how the current
+findings might be reconciled with Rickard’s (2005) transfer evidence for the reverse association, it is important that we first try to
+reproduce inter-operation transfer in the direction tested by Rickard (i.e., factoring to multiplication). In Experiment 1, we examined transfer from multiplication practice to factoring. Therefore,
+Experiment 2 repeated the basic design and procedure of Experiment 1 except that participants practiced factoring during the
+practice phase. On the basis of the IE-r model and results of
+Rickard (2005, Experiment 1), we expected factoring practice
+(e.g., 56 ⫽ ? ⫻ ?) to facilitate performance of the corresponding
+multiplication problems (8 ⫻ 7 ⫽ ?).
+
+Experiment 2
+Method
+Participants
+Twenty-eight participants from the University of Saskatchewan
+Department of Psychology participant pool received course credit
+for participation (19 women, 9 men). Ages ranged from 18 to 25
+
+years (M ⫽ 19.9), and all of the participants reported normal or
+corrected-to-normal vision.
+
+Stimuli, Design, and Procedure
+Experiment 2 utilized the same stimuli, design, and procedure as
+Experiment 1, with two exceptions in the practice phase. First, the
+number of practice blocks was 16 rather than 15.1 Second, all
+participants completed the practice phase with the factoring task
+instead of the multiplication task.
+
+Results
+As in Experiment 1, the ANOVA included data from the last
+block of the pretest and the first block of the posttest.
+
+Response Time
+The RT analyses were conducted as in Experiment 1. The
+anti-logs of the mean median RTs appear in Table 2, and transfer
+effects (i.e., mean pretest RT minus mean posttest RT) with
+Masson and Loftus (2003, p. 212) repeated measures 95% confidence intervals appear in Figure 2. A 2 ⫻ 3 ⫻ 2 mixed ANOVA
+with variables of group (factor or multiply at pretest and posttest),
+problem type (practiced, unrelated, related), and test phase (pretest, posttest) indicated no significant main effects (all ps ⬎ .15).
+All three two-way interactions were significant; however, these
+were qualified by the triple interaction, F(2, 52) ⫽ 4.27, MSE ⫽
+3,457.4, p ⫽ .019. As Figure 2 shows, practicing a specific set of
+factoring problems (i.e., the practiced problem set) facilitated those
+problems at posttest relative to pretest (291 ms) but did not
+facilitate the corresponding multiplication problems (⫺71 ms). In
+fact, Figure 2 suggests that, relative to unrelated problems, performance of related multiplication problems encountered interference
+after practicing the corresponding factoring problems, whereas
+factoring practice did not affect unrelated or related factoring
+problems. A separate 2 ⫻ 2 ⫻ 2 ANOVA comparing the unrelated
+and related problem sets as a function of group and test phase
+provided some evidence for the triple interaction, F(1, 26) ⫽ 3.59,
+MSE ⫽ 2,458.88, p ⫽ .069.
+
+Percentage of Errors
+The overall error rate was 7.9%. Mean percentage of errors (see
+Table 2) received a 2 ⫻ 3 ⫻ 2 ANOVA with factors of group
+(multiplication or factoring), problem type (practiced, unrelated,
+related), and test phase (pretest or posttest). As Table 2 shows,
+despite the counterbalanced assignment of problems to the practiced and unrelated conditions, for the factoring group, practiced
+problems were substantially less error prone than unrelated problems during the pretest. The only significant effect in the error
+analysis was a Group ⫻ Problem Type interaction, F(2, 52) ⫽
+4.45, MSE ⫽ 118.2, p ⫽ .016. Error rates were more or less
+uniform across problem type for the multiplication group (8.2%,
+6.1%, and 6.1% for practiced, unrelated, and related, respectively)
+1
+
+We planned for 16 practice blocks in Experiment 1, but one block was
+omitted because of a programming error.
+
+REVERSE ASSOCIATION
+
+Table 2
+Anti-Log of Mean Median Log Response Time for Correct Trials
+and Percentage of Errors in Experiment 1 by Operation,
+Problem Type, and Test Phase
+Factor
+Problem type
+
+Pretest
+
+Practiced
+Unrelated
+Related
+
+1,454
+1,461
+1,537
+
+Posttest
+
+Pretest
+
+Posttest
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1,163
+1,532
+1,499
+
+1,432
+1,385
+1,287
+
+1,521
+1,431
+1,455
+
+5.1
+6.1
+6.1
+
+11.2
+6.1
+6.1
+
+Percentage of errors
+4.1
+13.3
+11.2
+
+wan campus. Participants ranged in age from 18 to 37 years (M ⫽
+20.6), reported normal or corrected-to-normal vision, and received
+course credit for their participation. One group constituted the
+factor-at-test group and the other, the multiply-at-test group. The
+practice phase was identical for the two groups.
+
+Multiply
+
+Response time (ms)
+
+Practiced
+Unrelated
+Related
+
+551
+
+4.1
+15.3
+6.1
+
+Note. Means based on the last block of the pretest phase and the first
+block of the posttest phase.
+
+but not for the factoring group (4.1%, 14.3%, and 8.7% for
+practiced, unrelated, and related, respectively).
+
+Discussion
+Experiment 2 constituted a conceptual replication of Rickard
+(2005, Experiment 1) in which practice of factoring produced
+substantial facilitation to performance of the corresponding multiplication problems. Here, the factoring problems that were practiced sped up by about 300 ms between the pretest and posttest,
+which demonstrates that the practice phase was effective in facilitating the practiced problems. The corresponding multiplication
+problems, however, presented no evidence of facilitation. In fact,
+related multiplication problems appeared to encounter RT interference from factoring practice. Thus, Experiment 2 provided no
+evidence that factoring strengthened a retrieval structure that facilitates both factoring and multiplication.
+Taken together, the results of Experiments 1 and 2 seem to
+present a paradox when considered in relation to Rickard’s (2005)
+Experiment 1. How can we reconcile the opposing negative and
+positive transfer patterns presented by the two paradigms? Given
+the failure of both Experiments 1 and 2 to produce the transfer
+pattern expected on the basis of the hypothesis of the reverse
+association, we designed Experiment 3 as a close replication of
+Rickard (2005, Experiment 1), which demonstrated facilitative
+transfer from factoring to multiplication. Unlike Experiments 1
+and 2 in the present experiment, in Rickard’s paradigm, participants practiced both factoring and multiplication problems in the
+practice phase. At test, transfer to corresponding multiplication
+problems was measured relative to new, unpracticed problems. We
+extended the design to include a second group of participants to
+examine facilitative transfer from multiplication to factoring.
+
+Experiment 3
+Method
+Participants
+Two groups of 18 volunteers (26 women, 10 men) were recruited through the participant pool at the University of Saskatche-
+
+Stimuli
+Three sets of eight problems were created as follows: Set 1: 2 ⫻
+5, 2 ⫻ 8, 3 ⫻ 4, 3 ⫻ 9, 4 ⫻ 8, 5 ⫻ 7, 6 ⫻ 7, 7 ⫻ 9; Set 2: 2 ⫻
+4, 2 ⫻ 7, 3 ⫻ 7, 3 ⫻ 8, 4 ⫻ 9, 5 ⫻ 6, 5 ⫻ 9, 8 ⫻ 9; and Set 3:
+2 ⫻ 3, 2 ⫻ 9, 3 ⫻ 5, 4 ⫻ 5, 4 ⫻ 7, 6 ⫻ 8, 6 ⫻ 9, 7 ⫻ 8. The sets
+were approximately matched for difficulty with at least one problem, and at most three, involving each of the operands 2 through
+9. One set served as the multiplication practice set, another served
+as the factoring practice set, and the third was the unpracticed
+“new” set of problems that provided a baseline during the test
+phase. Assignment of the three sets to the three problem conditions
+was counterbalanced. Operand order for the multiplication problems (e.g. 3 ⫻ 4, 4 ⫻ 3) was assigned randomly and then
+alternated across blocks.
+
+General Procedure and Design
+The apparatus, stimulus presentation, and response input procedures were the same as in Experiments 1 and 2. Instructions
+explained both the multiplication task and the factoring task while
+emphasizing both speed and accuracy. For the factoring task,
+participants were instructed to enter the operands in any order but
+to avoid using repeated factors (e.g., 16 ⫽ 2 ⫻ 8 but not 4 ⫻ 4)
+or the one rule (i.e., 1 ⫻ the presented number). Participants did
+not receive feedback about speed or accuracy.2
+For all participants, the experiment began with 40 practice
+blocks, with operation (factor or multiply) alternating across
+blocks. Even-numbered participants began practice with multiplication, and odd-numbered participants began with factoring. Eight
+problems were presented per block, resulting in a total of 320
+practice trials. There was a brief break between practice blocks,
+and a screen message indicated the operation for the upcoming
+block. After completing the practice phase, participants received
+all three sets of problems (i.e., multiplication practice, factoring
+practice, and new) in a test phase. During the test phase, half of the
+participants performed factoring, and the other half performed
+multiplication. Each of the 24 problems was presented in random
+order in each of four test blocks.
+
+Results
+Practice Phase
+To compare initial factoring and multiplication performance,
+and to measure performance gains during practice, we analyzed
+RTs and errors as a function of group (factor at test, multiply at
+test), operation (factor, multiply), and block (early vs. late in
+2
+Not providing feedback was an unintentional procedural difference
+between our Experiment 3 and Rickard (2005, Experiment 1), in which the
+words “correct” or “incorrect” were displayed after each trial.
+
+CAMPBELL AND ROBERT
+
+practice). The first two blocks of practice represented early practice, and the final two of the 40 blocks represented late practice.
+Response times. The median of log RTs for correct trials
+received a 2 ⫻ 2 ⫻ 2 mixed ANOVA, with variables of group,
+operation, and block (early, late). The anti-logs of the mean median RTs appear in Table 3. There were no effects involving the
+group variable (all ps ⬎ .15), as would be expected given that the
+practice phase was identical for the two groups. The main effects
+of block and operation were qualified by the Block ⫻ Operation
+interaction, F(1, 34) ⫽ 25.33, MSE ⫽ 4,193.62, p ⬍ .001. Early in
+practice, factoring was 659 ms slower than multiplication on
+average (2,521 ms vs. 1,862 ms), whereas late in practice this
+difference was reduced to 66 ms (1,310 ms vs. 1,244 ms). Thus,
+during the course of practice, factoring sped up 1,211 ms, and
+multiplication sped up 618 ms on average.3
+Percentage of errors. The overall error rate was 8.4% during
+the practice phase. Table 3 includes the mean percentage of errors
+as a function of group, operation, and block. The corresponding
+ANOVA indicated no significant effects of group, although the test
+of the three-way interaction suggested that the multiply-at-test
+group presented somewhat larger savings for factoring and somewhat smaller accuracy savings for multiplication than the factorat-test group, F(1, 34) ⫽ 3.40, MSE ⫽ 53.93, p ⫽ .07. As in the
+RT analyses, the main effects of block and operation were qualified by the Block ⫻ Operation interaction, F(1, 34) ⫽ 12.57,
+MSE ⫽ 53.93, p ⫽ .001. Early in practice, factoring was substantially more error prone than multiplication (17.7% vs. 8.7%),
+whereas error rates for factoring and multiplication were low and
+equivalent late in practice (3.9% vs. 3.5%).
+
+Test Phase
+Response times. The median of log RTs for correct trials in the
+first block of the test phase received a 2 ⫻ 3 mixed ANOVA, with
+variables of group (factor during test phase vs. multiply during test
+phase) and problem type (factored during practice, multiplied
+during practice, or new). The anti-logs of the mean median RTs
+
+Table 3
+Anti-Log of Mean Median Log Response Time for Correct Trials
+and Percentage of Errors in Experiment 3 by Group, Operation,
+and Practice Blocks
+Factor-at-test group
+Practice type
+
+Factor
+
+Early
+Late
+
+2,576
+1,281
+
+Multiply
+
+Multiply-at-test group
+Factor
+
+Multiply
+
+2,466
+1,338
+
+1,876
+1,318
+
+20.1
+3.5
+
+9.0
+5.6
+
+Response time (ms)
+1,847
+1,170
+
+Percentage of errors
+Early
+Late
+
+15.3
+4.2
+
+8.3
+1.4
+
+Note. Early ⫽ Practice Blocks 1 and 2; late ⫽ Practice Blocks 39 and 40.
+
+appear in Table 4, and the mean RT savings relative to new
+problems (with 95% repeated measures confidence intervals) appear in Figure 3. There was a robust Group ⫻ Problem Type
+interaction, F(2, 68) ⫽ 41.59, MSE ⫽ 4,470.55, p ⬍ .001. As
+Figure 3 shows, this effect arose because RT savings relative to
+new problems were much larger given the same operation (874
+ms) than an operation change (316 ms). Nonetheless, there was
+clear evidence of savings with an operation change, both for
+practice as multiplication, followed by test as factoring (302 ms)
+and for practice as factoring, followed by test as multiplication
+(330 ms).
+Percentage of errors. The error rate in the first block of the
+test phase was 7.3%. The percentage of errors by group and
+problem type appear in Table 4. As in the RT analysis, there was
+a Group ⫻ Problem Type interaction, F(2, 68) ⫽ 6.11, MSE ⫽
+86.89, p ⫽ .004. This effect arose because there were accuracy
+savings relative to new problems given the same operation during
+practice and test (5.9%) but not with an operation change (⫺1.8%).
+
+Discussion
+600
+
+Group
+Factor
+Multiply
+
+500
+
+Pre - Post RT (ms)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+552
+
+400
+300
+200
+100
+0
+-100
+-200
+
+Experiment 3 provided evidence of facilitative transfer both
+from factoring to multiplication and from multiplication to factoring. Thus, we replicated Rickard’s (2005) findings of multiplication RT savings from factoring and showed further that the paradigm produces item-specific RT savings on factoring performance
+from multiplication practice, as predicted by the IE-r theory.
+Relative to new problems, same-operation savings for multiplication were 813 ms on average, whereas RT savings with an operation change were 330 ms on average. Taken as a percentage of
+same-operation savings, inter-operation savings were 40% as large
+
+-300
+-400
+
+Practiced Unrelated Related
+
+Problem Set
+Figure 2. Mean pretest minus mean posttest response time (RT) by group
+(factor or multiply during the pretest and posttest) and problem set (practiced, unrelated, related) for all trials in Experiment 2. Both groups factored
+during the practice phase. Error bars are 95% confidence intervals (Masson
+& Loftus, 2003).
+
+3
+Unlike in Experiments 1 and 2, participants’ initial factoring performance in Experiment 3 was relatively poor compared with multiplication.
+In Experiments 1 and 2, however, the practiced problem sets included four
+so-called “tie” problems (5 ⫻ 5 ⫽ 25, 7 ⫻ 7 ⫽ 49, 8 ⫻ 8 ⫽ 64, 9 ⫻ 9 ⫽
+81), which involve only one factor and therefore would be easy to factor.
+Additionally, one practice set was composed largely of problems from the
+five-times tables, which are also reliably easy problems. In contrast, in our
+Experiment 3 and Rickard (2005, Experiment 1), there were no tie problems, and each problem set involved all factors from 2 through 9.
+
+REVERSE ASSOCIATION
+
+Group
+Practiced operation
+
+Factor at test
+
+Multiply at test
+
+Response time
+Factor
+Multiply
+New
+
+1,446
+2,079
+2,381
+
+1,869
+1,386
+2,199
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Percentage of errors
+Factor
+Multiply
+New
+Note.
+
+2.8
+9.7
+9.0
+
+11.1
+2.8
+8.3
+
+Means are based on the first block of the test phase.
+
+(330 ms vs. 813 ms), which is somewhat smaller than the 59%
+observed by Rickard (2005). This difference might have occurred
+because, unlike Rickard’s Experiment 1, we did not provide accuracy
+feedback; consequently, facilitative practice effects might have accrued more slowly in our experiment. For factoring, inter-operation
+savings were 32% of same-operation savings (302 ms vs. 935 ms).
+
+General Discussion
+The purpose of these experiments was to seek converging evidence for the reverse association in simple multiplication fact
+retrieval. In previous research, both a practice-transfer paradigm
+(Rickard, 2005) and a matching-task paradigm (Rusconi et al.,
+2006) provided evidence for a direct associative link from product
+(8) to factors (2 4). Furthermore, given that the reverse association
+would provide a mechanism for performing simple division, the
+reverse association theory provided an explanation for positive
+transfer from multiplication to corresponding division problems. In
+contrast, we would not expect a corresponding reverse association
+for simple addition facts because there are not comparable unique
+mappings of sums to addends as there are products to factors.
+Accordingly, we would not expect subtraction to be mediated by
+addition, and there is no evidence of transfer of practice between
+corresponding addition (4 ⫹ 3 ⫽ ?) and subtraction (7 ⫺ 3 ⫽ ?)
+(Campbell et al., 2006). Our Experiment 3, which used Rickard’s
+(2005) transfer paradigm, confirmed positive transfer from factoring to corresponding multiplication problems and extended Rickard’s results by showing that the paradigm also produced positive
+transfer from multiplication practice to corresponding factoring
+problems. Taken together, the collective evidence for a reverse
+association mechanism in simple multiplication seems strong.
+It might appear to be paradoxical, then, that our Experiments 1
+and 2 failed to find positive transfer evidence of the reverse
+association, in terms of either facilitation from factoring to multiplication or facilitation from multiplication to factoring. Nonetheless, in both Experiments 1 and 2, participants performed factoring
+just as quickly and accurately as multiplication. Thus, participants
+pre-experimentally possessed representations and processes that
+permitted efficient factoring performance. Furthermore, in Experiment 1, the interference effect from multiplication practice on
+
+factoring was not global but instead primarily affected the corresponding factoring problems. This item-specific negative transfer
+between corresponding factoring (15 ⫽ ? ⫻ ?) and multiplication
+(5 ⫻ 3 ⫽ ?) problems in Experiment 1 provides additional strong
+evidence that the same retrieval structure mediated both. Thus,
+although our paradigm for Experiments 1 and 2 produced an
+inter-operation transfer pattern that was opposite that of Rickard
+(2005), the results nonetheless reinforce the IE-r theory of a
+bidirectional retrieval structure for multiplication facts.
+The central question is why do the two transfer paradigms yield
+opposing transfer patterns? One important procedural difference between the paradigms is that Rickard’s (2005) Experiment 1 participants practiced both factoring and multiplication during the practice
+phase, whereas in our Experiments 1 and 2, participants practiced
+only one operation. This difference could have several consequences
+relevant to the opposing transfer patterns observed. In consideration of
+this, it is useful to introduce a distinction between the long-term
+memory (LTM) retrieval structure (i.e., the multiplication fact representation) and the cognitive procedures that retrieve relevant information from it (cf. Pirolli & Anderson, 1985; Zbrodoff & Logan,
+1990). Zbrodoff and Logan coined the term microprocess to refer to
+the LTM representation of a multiplication fact and the term macroprocess to refer to task-specific procedures that operate on the microprocess. In this view, factoring and multiplication stimuli activate
+distinct production rules that extract different components from the
+same LTM retrieval structure. For factoring, the product serves as a
+retrieval cue for the factors, whereas for multiplication, the two
+operands are retrieval cues for the product. The different input structures (e.g., 56 vs. 7 ⫻ 8) require distinct encoding processes to map
+the stimulus to the common internal structure and different answerretrieval processes to extract the appropriate components for responding. Thus, each hypothetical macroprocess would be specialized to
+handle the task-specific encoding, information extraction, and response requirements of each operation. The macroprocess implements
+a production rule that applies generally to an entire arithmetic operation; thus, changes in the efficiency of executing the macroprocess
+affect the entire operation. We assume that practicing a specific
+problem facilitates processing both the macroprocess (i.e., increases
+the fluency of extracting factors or products) and the microprocess
+
+Group
+Factor
+Multiply
+
+1200
+
+RT Savings (ms)
+
+Table 4
+Anti-Log of Mean Median Log Response Time for Correct Trials
+and Percentage of Errors During the Test Phase in Experiment 3
+
+553
+
+1000
+800
+600
+400
+200
+0
+
+Multiply
+
+Factor
+
+Practiced Operation
+Figure 3. Mean response time (RT) savings relative to new problems by
+group (factor or multiply at test) and practiced operation in Experiment 3.
+Error bars are 95% confidence intervals (Masson & Loftus, 2003).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+554
+
+CAMPBELL AND ROBERT
+
+(i.e., strengthens the bidirectional associative link between the product
+and factors).
+In Rickard’s (2005) Experiment 1 and our Experiment 3, we
+expected practice to facilitate application of both the factoring and
+the multiplication macroprocesses, because both operations were
+extensively practiced. As participants cycled through 40 practice
+blocks of a few factoring problems alternating with a few multiplication problems, their skilled ability to flexibly execute either
+macroprocess would increase.4 The greatest post-practice benefits
+at test would accrue for identical items (e.g., practice 8 ⫻ 9 ⫽ 72
+and test 8 ⫻ 9 ⫽ 72 or 9 ⫻ 8 ⫽ 72), which benefit from the
+strengthening of specific microprocess–macroprocess combinations. Corresponding problems in the other operation (e.g., 72 ⫽ ?
+⫻ ?) would also show facilitation relative to new problems because the independent contributions of strengthening the relevant
+microprocess (e.g., through multiplication practice) and the relevant macroprocess (e.g., through factoring practice on different
+problems) combine to yield positive transfer.
+In contrast, in our Experiments 1 and 2, participants practiced
+only one operation (factoring or multiplication) during the practice
+phase. The specific items practiced (i.e., microprocess–
+macroprocess combinations) would be strengthened and present
+savings at test, as observed. However, when there was an operation
+change at test (i.e., practice 9 ⫻ 8 ⫽ ?, then test 72 ⫽ ? ⫻ ?;
+practice 72 ⫽ ? ⫻ ?, then test 9 ⫻ 8 ⫽ ?), the relevant macroprocess had not been practiced and, consequently, there was no
+potential benefit from applying a well-practiced macroprocess, as
+in Rickard’s paradigm. In fact, practicing the application of one
+macroprocess (i.e., factoring or multiplying) to the exclusion of the
+other leads to item-specific interference during subsequent attempts to apply the unpracticed macroprocess. This negative transfer was most clear in Experiment 1, where multiplication practice
+produced substantial RT and accuracy costs for corresponding
+factoring problems. This suggests that exclusively practicing one
+operation resulted in specialization of the fact representation to
+accommodate the practiced macroprocess, perhaps by inhibition of
+the other direction of association (cf. Singley & Anderson, 1989,
+p. 116). When the unpracticed macroprocess was subsequently
+applied to the modified fact representation, its efficiency to process
+that structure was reduced. This interference was sufficiently
+strong to overwhelm the potentially positive benefits of strengthening the bidirectional representation.
+According to this account, item-specific interference between
+factoring and multiplication occurs when only one operation is
+practiced (Experiments 1 and 2) because the item’s retrieval structure becomes tailored to the practiced direction of retrieval to the
+determent of the unpracticed direction of retrieval. When both
+macroprocesses are practiced, however (even on different fact
+representations, i.e., Rickard, 2005, Experiment 1 and our Experiment 3), then operation-specific tailoring of the fact representation
+does not occur. Consequently, there is no negative transfer between operations and facilitative effects of strengthening the
+shared memory representation can appear.
+This complex behavior may be understood as an adaptive response to the different task environments created by the two
+paradigms. In the context of mixed practice of the two operations,
+it would be adaptive to retain the flexibility to apply either macroprocess. This view is consistent with evidence that increasing the
+contextual variety of problems during practice can improve trans-
+
+fer to unpracticed items (Schmidt & Bjork, 1992). If only one
+operation is practiced, however, then in that context it becomes
+adaptive to specialize the microprocess representations to maximize performance of the practiced operation. This results in itemspecific interference when the unpracticed macroprocess is applied
+at test.
+
+Conclusions
+Three experiments tested the IE-r theory of number fact representation and provided new evidence that multiplication facts
+entail a bidirectional retrieval structure that affords multiplication
+or factoring. The important new theoretical contribution of this
+work has been to show that processing of that retrieval structure is
+subject to dynamic influences that can affect its processing in
+seemingly contradictory ways. In two transfer paradigms that are
+isomorphic with respect to theoretically basic design features (i.e.,
+practice subset of problems in one or the other operation, test same
+problems and corresponding problems in other operation), the
+results were in surprising opposition, producing positive transfer in
+one case and negative transfer in the other.
+The apparent resolution of this seemingly paradoxical behavior
+lies in recognizing that the learning system engaged during practice adapts to the variability in processing requirements that the
+practice phase presents. In the context of mixed practice of factoring and multiplication, it is adaptive to retain the flexibility to
+apply either macroprocess. In combination with the strengthening
+of the bidirectional representation, this leads to item-specific facilitation across operations at test. When only one operation is
+practiced, however, it is adaptive to specialize the memory representation for that operation, perhaps by inhibiting the reverse
+direction of processing. This results in item-specific interference
+when the unpracticed operation is attempted at test. The paradigmdependent behavior of the bidirectional retrieval structure thereby
+arises from its adaptiveness to the learning and performance context. This observation, in addition to informing cognitive arithmetic theory and educational practice, is also relevant more
+broadly because such adaptiveness likely is pervasive in human
+learning and memory (Anderson, 1990; Schmidt & Bjork, 1992).
+
+4
+We would expect some global speed-up owing to improved fluency
+with each macroprocess. Relative to early practice (Table 3), “new” problems at test (Table 4) were 195 ms faster for factoring (2,576 ms ⫺ 2,381
+ms) and 267 ms faster for multiplication (2,466 ms ⫺ 2,199 ms).
+
+References
+Anderson, J. R. (1990). The Adaptive Character of Thought. Hillsdale, NJ:
+Erlbaum.
+Anderson, M. C., Bjork, E. L., & Bjork, R. A. (2000). Retrieval-induced
+forgetting: Evidence for a recall-specific mechanism. Psychonomic Bulletin & Review, 7, 522–530.
+Anderson, M. C., & Green, C. (2001). Suppressing unwanted memories by
+executive control. Nature, 410, 131–134.
+Anderson, M. C., Green, C., & McCulloch, K. C. (2000). Similarity and
+inhibition in long-term memory: Evidence for a two-factor theory.
+Journal of Experimental Psychology: Learning, Memory, and Cognition, 26, 1141–1159.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+REVERSE ASSOCIATION
+Ashcraft, M. H. (1992). Cognitive arithmetic: A review of theory and data.
+Cognition, 44, 75–106.
+Ashcraft, M. H. (1995). Cognitive psychology and simple arithmetic: A
+review and summary of new directions. Mathematical Cognition, 1,
+3–34.
+Butterworth, B. (1999). What counts: How every brain is hardwired for
+math. New York: Free Press.
+Campbell, J. I. D. (1999). Division by multiplication. Memory & Cognition, 27, 245–275.
+Campbell, J. I. D. (2005). Handbook of mathematical cognition. Psychology Press: New York.
+Campbell, J. I. D., Fuchs-Lacelle, S., & Phenix, T. L. (2006). Identical
+elements model of arithmetic memory: Extension to addition and subtraction. Memory & Cognition, 34, 633– 647.
+Campbell, J. I. D., & Xue, Q. (2001). Cognitive arithmetic across cultures.
+Journal of Experimental Psychology: General, 130, 299 –315.
+Dehaene, S. (1997). The number sense: How the mind creates mathematics. New York: Oxford University Press.
+LeFevre, J., Bisanz, J., & Mrkonjic, L. (1988). Cognitive arithmetic:
+Evidence for obligatory activation of arithmetic facts. Memory & Cognition, 16, 45–53.
+LeFevre, J., & Morris, J. (1999). More on the relation between division and
+multiplication in simple arithmetic: Evidence for mediation of division
+solutions via multiplication. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 12, 151–175.
+LeFevre, J., Sadesky, G. S., & Bisanz, J. (1996). Selection of procedures in
+mental addition: Reassessing the problem size effect in adults. Memory
+& Cognition, 27, 803– 812.
+Masson, M. E. J., & Loftus, G. R. (2003). Using confidence intervals for
+graphically based data interpretation. Canadian Journal of Experimental
+Psychology, 57, 203–220.
+Mauro, D. G., LeFevre, J., & Morris, J. (2003). Effects of format on
+division and multiplication performance: Division via multiplicationbased representations. Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 29, 163–170.
+Phenix, T. L., & Campbell, J. I. D. (2004). Effects of multiplication
+practice on product verification: Integrated structures model or retrieval
+induced forgetting? Memory & Cognition, 32, 324 –335.
+
+555
+
+Pirolli, P., & Anderson, J. R. (1985). The role of practice in fact retrieval.
+Journal of Experimental Psychology: Learning, Memory, and Cognition, 11, 136 –153.
+Rickard, T. C. (2005). A revised identical elements model of arithmetic
+fact representation. Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 31, 250 –257.
+Rickard, T. C., & Bourne, L. E., Jr. (1996). Some tests of an identical
+elements model of basic arithmetic skills. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 22, 1281–1295.
+Rickard, T. C., Healy, A. F., & Bourne, L. E., Jr. (1994). On the representation of arithmetic facts: Operand order, symbol, and operation
+transfer effects. Journal of Experimental Psychology: Learning, Memory, and Cognition, 20, 1139 –1153.
+Rusconi, E., Galfano, G., Rebonato, E., & Umiltà, C. (2006). Bidirectional
+links in the network of multiplication facts. Psychological Research, 70,
+32– 42.
+Schmidt, R. A., & Bjork, R. A. (1992). New conceptualizations of practice:
+Common principles in three paradigms suggest new concepts for training. Psychological Science, 3, 207–216.
+Singley, M. K., & Anderson, J. R. (1989). The transfer of cognitive skill.
+Cambridge, MA: Harvard University Press.
+Thibodeau, M. H., LeFevre, J. A., & Bisanz, J. (1996). The extension of the
+interference effect to multiplication. Canadian Journal of Experimental
+Psychology, 50, 393–396.
+Verguts, T., & Fias, W. (2005). Interacting neighbors: A connectionist
+model of retrieval in single-digit multiplication. Memory & Cognition,
+33, 1–16.
+Zbrodoff, N. J., & Logan, G. D. (1990). On the relation between production
+and verification tasks in the psychology of simple arithmetic. Journal of
+Experimental Psychology: Learning, Memory, and Cognition, 16, 83–
+97.
+Zbrodoff, N. J., & Logan, G. D. (2005). What everyone finds: The problem
+size effect. In J. I. D. Campbell (Ed.), Handbook of mathematical
+cognition (pp. 331–346). New York: Psychology Press.
+
+Received July 7, 2007
+Revision received December 11, 2007
+Accepted December 15, 2007 䡲
+
+
